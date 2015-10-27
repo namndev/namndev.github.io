@@ -16,4 +16,4 @@ _[QDict][qdict]_
 [What I Did All These Years](http://madmanteam.github.io/work/time.html)
 
 [github-madman]:https://github.com/madmanteam
-[qdict]:http://madmanteam.github.io/QDict/
+[qdict]:https://github.com/madmanteam/QDict/
