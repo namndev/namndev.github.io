@@ -1,2 +1,2 @@
-# madman.github.com
+# madman.github.io
 Home page of MADMAN Team
