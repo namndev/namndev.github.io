@@ -2,19 +2,19 @@ namndbka.github.io
 ==============
 
 This repository contains the source for my personal site at
-<http://namndbka.github.io>.
+<https://namndbka.github.io>.
 
 ## tips
 
-http://pages.github.io/
+https://pages.github.io/
 
 the url is
 
-http://namndbka.github.io
+https://namndbka.github.io
 
 not
 
-http://www.namndbka.github.io
+https://www.namndbka.github.io
 
 OK, now I see building a website is tough! even you think its merely simple tree with a couple of interlinks, and you don't want something pretty...
 
