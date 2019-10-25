@@ -1,8 +1,7 @@
-namndbka.github.io
+[namndbka.github.io](https://namndbka.github.io)
 ==============
 
-This repository contains the source for my personal site at
-<https://namndbka.github.io>.
+This repository contains the source for my personal site at [namndbka.github.io](https://namndbka.github.io)
 
 ## tips
 
