@@ -3,3 +3,5 @@ lsi         : false
 pygments    : true
 permalink   : none
 markdown    : kramdown
+
+theme: jekyll-theme-slate
