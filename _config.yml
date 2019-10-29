@@ -22,13 +22,13 @@ title: NamNguyen Blog
 email: namnd.bka@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   "Be the change that you wish to see in the world !" - Mahatma Gandhi
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://namndbka.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: namnd_bka
 github_username:  namndbka
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
