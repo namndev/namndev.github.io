@@ -9,17 +9,16 @@ tags: [Github]
 comments: true
 ---
 
+A collection of awesome gists. Feel free to contribute.
+
 <img src="https://cl.ly/0S3e2k2U2p3r/Screen%20Shot%202016-07-19%20at%206.03.35%20PM.png" />
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
+
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 
 - [Awesome Android Complete Reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
 - [Awesome Resty](https://github.com/bungle/awesome-resty)
 - [Reference iOS](https://gist.github.com/namndbka/aa0ca9ed273ed92361346ee8093818ed)
-
-A collection of awesome gists. Feel free to contribute.
 
 ## TOC
 * [Databases](#databases)
