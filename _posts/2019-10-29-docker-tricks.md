@@ -6,7 +6,7 @@ image: /img/docker/docker_icon.jpeg
 
 Since its introduction in 2013, Docker quickly became the world’s most popular container management system. From fancy start-ups to a more traditional use cases in large banks and insurance companies. From development, testing, staging to production environments.
     
-    ![Docker Architecture](/img/docker/docker_architecture.png)
+    ![Docker Architecture](../img/docker/docker_architecture.png)
 
 In this article I just want to share tips and tricks learned using and enjoying Docker.
 
