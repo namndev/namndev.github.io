@@ -21,11 +21,11 @@ MySQL is an open source database management software that helps users store, org
 - [Sequel Pro](http://www.sequelpro.com/) (abandoned)
 
 ## Commands
-Access monitor: `mysql -u [username] -p;` (will prompt for password)
+Access monitor: `mysql -u [username] -p;` _(will prompt for password)_
 
 Show all databases: `show databases;`
 
-Access database: `mysql -u [username] -p [database]` (will prompt for password)
+Access database: `mysql -u [username] -p [database]` _(will prompt for password)_
 
 Create new database: `create database [database];`
 
@@ -46,7 +46,8 @@ Adding a column: `ALTER TABLE [table] ADD COLUMN [column] VARCHAR(120);`
 Adding a column with an unique, auto-incrementing ID: 
 
 ```bash
-ALTER TABLE [table] ADD COLUMN [column] int NOT NULL AUTO_INCREMENT PRIMARY KEY;
+ALTER TABLE [table] \
+    ADD COLUMN [column] int NOT NULL AUTO_INCREMENT PRIMARY KEY;
 ```
 
 Inserting a record: `INSERT INTO [table] ([column], [column]) VALUES ('[value]', [value]');`
@@ -105,7 +106,7 @@ Custom column output names: `SELECT [column] AS [custom-column] FROM [table];`
 ```bash
 mysqldump -h [host] -u [username] -p [database] > db_backup.sql
 ```
-`Dump` and zip
+`Dump` and `Compress`
 
 ```bash
 mysqldump -h [host] -u [username] -p [database] | gzip > <out_path_db>.sql.gz
