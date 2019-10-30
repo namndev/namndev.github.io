@@ -2,7 +2,7 @@
 layout: post
 title: Docker tricks!
 image: /img/docker/docker_icon.jpeg
-tags: [docker]
+tags: [Docker, DevOps]
 comments: true
 ---
 
