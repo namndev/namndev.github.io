@@ -2,6 +2,8 @@
 layout: post
 title: Docker tricks!
 image: /img/docker/docker_icon.jpeg
+tags: [docker]
+comments: true
 ---
 
 Since its introduction in 2013, Docker quickly became the world’s most popular container management system. From fancy start-ups to a more traditional use cases in large banks and insurance companies. From development, testing, staging to production environments.
