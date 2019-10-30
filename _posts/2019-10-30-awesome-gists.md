@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Awesome Gists
-subtitle: A collection of awesome gists. Feel free to contribute.
+image: /img/git-icon.png
+# subtitle: A collection of awesome gists. Feel free to contribute.
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
 tags: [Github]
@@ -12,7 +13,6 @@ comments: true
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
-
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 
 - [Awesome Android Complete Reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
