@@ -70,6 +70,7 @@ ffmpeg -i beach.mkv -vf scale=w=1280:h=720:force_original_aspect_ratio=decrease 
 -hls_segment_filename beach/720p_%03d.ts beach/720p.m3u8
 ```
 
+
 - `-i beach.mkv` - set `beach.mkv` as input file
 - `-vf "scale=w=1280:h=720:force_original_aspect_ratio=decrease"` - scale video to maximum possible within 1280x720 while preserving aspect ratio
 - `-c:a aac -ar 48000 -b:a 128k` - set audio codec to AAC with sampling of 48kHz and bitrate of 128k
@@ -164,7 +165,7 @@ To choose the right bitrate one must understand his type of content. Content wit
 
 Here are some good defaults to start from:
 
-Quality |	Resolution |	bitrate - low motion | bitrate - high motion | audio bitrate
+| Quality |	Resolution |	bitrate - low motion | bitrate - high motion | audio bitrate |
 |:------------- |:---------------:|:-------------:|:---------------:|:-------------:|
 | 240p |	426x240	| 400k | 	600k |	64k |
 | 360p	 | 640x360	| 700k	 | 900k | 96k |
