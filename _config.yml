@@ -71,7 +71,7 @@ social-network-links:
   rss: false
   email: "namnd.bka@gmail.com"
   facebook: namnd.bka
-  github: namndbka
+  github: namndep
   twitter: namnd_bka
 #  reddit: yourname
 #  linkedin: daattali
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "namndbka.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "namndep.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
