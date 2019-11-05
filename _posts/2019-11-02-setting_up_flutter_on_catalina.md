@@ -22,10 +22,15 @@ Flutter has good [installation documentation](https://flutter.dev/docs/get-start
 2. Launch the Terminal.
         
 3. Type vim .bash_profile (or vim .zprofile if zsh is your default shell) to open the vim editor.
+
 4. Type i to enter INSERT mode (or esc to exit INSERT mode).
-5. Type export PATH="$PATH:[YOUR_PATH]/flutter/bin" replacing [YOUR_PATH] with the path to the folder where you moved the flutter folder earlier ex. export PATH="$PATH:/Users/Your_User/Your_Dev_Folder/flutter/bin"
+
+5. Type export PATH="$PATH:[YOUR_PATH]/flutter/bin" replacing [YOUR_PATH] with the path to the folder where you moved the flutter folder earlier ex. export PATH="$PATH:/Users/<your_user>/development/flutter/bin"
+
 6. Type esc, then :wq! to save and exit.
+
 7. Quit the Terminal and open it again to refresh.
+
 8. Type echo $PATH to check that the path was correctly added.
         
 9. Type which flutter to verify the flutter command is available.
@@ -48,10 +53,13 @@ To develop apps for iOS, we need to install Xcode.
 ```bash
 For "idevice_id" error:
 sudo xattr -d com.apple.quarantine /Users/<your_user>/development/flutter/bin/cache/artifacts/libimobiledevice/idevice_id
+
 For "ideviceinfo" error:
 sudo xattr -d com.apple.quarantine /Users/<your_user>/development/flutter/bin/cache/artifacts/libimobiledevice/ideviceinfo
+
 For "idevicesyslog" error:
 sudo xattr -d com.apple.quarantine /Users/<your_user>/development/flutter/bin/cache/artifacts/libimobiledevice/idevicesyslog
+
 For "iproxy" error:
 sudo xattr -d com.apple.quarantine /Users/<your_user>/development/flutter/bin/cache/artifacts/usbmuxd/iproxy
 ```
@@ -97,6 +105,7 @@ And for the final big hurdle, we need to install a legacy version of Java, in qu
 
 ```bash
 1. Open Launchpad -> Other -> Script Editor
+
 2. Select New Document and copy the following text:
 set theDMG to choose file with prompt "Please select javaforosx.dmg:" of type {"dmg"}
 do shell script "hdiutil mount " & quoted form of POSIX path of theDMG
@@ -106,7 +115,9 @@ do shell script "sed -i '' 's/return false/return true/g' ~/tmp/Distribution"
 do shell script "pkgutil --flatten ~/tmp ~/Desktop/ModifiedJava6Install.pkg"
 do shell script "rm -rf ~/tmp"
 display dialog "Modified ModifiedJava6Install.pkg saved on desktop" buttons {"Ok"}
+
 3. Select Script -> Compile and then Script -> Run.
+
 4. You will get a popup prompting you to select the javaforosx.pkg file. This is the file in JavaForOSX.dmg that you downloaded from Apple earlier (after you mount it).
             
 5. Running the script will create a ModifiedJava6Install.pkg on your desktop. Run this ModifiedJava6Install.pkg to install the legacy Java version.
