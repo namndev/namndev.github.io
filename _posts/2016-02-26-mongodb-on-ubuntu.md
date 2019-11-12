@@ -122,4 +122,95 @@ _Restart MongoDB:_
 sudo service mongod restart
 ```
 
+## MongoDB Munin Plugin
+
+A [plugin](https://github.com/comerford/mongo-munin) is available that provide metrics for:
+
+- B-Tree stats
+- Current connections
+- Memory usage
+- Database operations (inserts, updates, queries etc.)
+
+The plugin can be installed on each node where MongoDB. For requirements and instructions to installing the MongoDB Munin Plugin.
+
+### CHECK YOUR SETUP
+
+After installing the plugin and making the configuration changes, force the server to update the information to check that your setup is correct using the following:
+
+```bash
+sudo -u munin /usr/share/munin/munin-update
+```
+
+If everything is set up correctly, you will get a chart like this:
+
+<p align="center">
+    <img src="/img/2016/munin-configuration-screen-shot.png" />
+</p>
+
+__PLUGINS__
+- mongo_ops : operations/second
+- mongo_mem : mapped, virtual and resident memory usage
+- mongo_btree : btree access/misses/etc...
+- mongo_conn : current connections
+- mongo_lock : write lock info
+- mongo_docs : number of documents (inserted, updated...)
+
+__REQUIREMENTS__
+
+- MongoDB 2.4+
+- python/pymongo
+
+### INSTALLATION (UBUNTU)
+
+__Install pip:__
+
+```bash
+sudo apt-get install build-essential python-dev python-setuptools
+sudo easy_install pip
+sudo pip install --upgrade virtualenv 
+```
+
+### Install pymongo:
+
+```bash
+sudo pip install pymongo
+```
+
+### Install plugins:
+
+``bash
+git clone https://github.com/comerford/mongo-munin.git /tmp/mongo-munin
+sudo cp /tmp/mongo-munin/mongo_* /usr/share/munin/plugins
+sudo ln -sf /usr/share/munin/plugins/mongo_btree /etc/munin/plugins/mongo_btree
+sudo ln -sf /usr/share/munin/plugins/mongo_conn /etc/munin/plugins/mongo_conn
+sudo ln -sf /usr/share/munin/plugins/mongo_lock /etc/munin/plugins/mongo_lock
+sudo ln -sf /usr/share/munin/plugins/mongo_mem /etc/munin/plugins/mongo_mem
+sudo ln -sf /usr/share/munin/plugins/mongo_ops /etc/munin/plugins/mongo_ops
+sudo ln -sf /usr/share/munin/plugins/mongo_docs /etc/munin/plugins/mongo_docs
+sudo chmod +x /usr/share/munin/plugins/mongo_*
+sudo service munin-node restart
+```
+
+_Check if plugins are running:_
+
+```bash
+munin-node-configure | grep "mongo_"
+```
+
+_Test plugin output:_
+
+```bash
+munin-run mongo_ops
+```
+
+### CONFIGURATION
+__How to configure custom db connection?__
+
+munin-node can set env value in below file: `/etc/munin/plugin-conf.d/munin-node`
+
+```bash
+[mongo_*]
+env.MONGO_DB_URI mongodb://user:password@host:port/dbname
+```
+
 > Thanks,
