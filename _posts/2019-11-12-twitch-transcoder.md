@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Live Video Transmuxing/Transcoding: FFmpeg vs TwitchTranscoder
+title: "Live Video Transmuxing/Transcoding: FFmpeg vs TwitchTranscoder"
 image: https://blog.twitch.tv/assets/uploads/0b997d21bf8f196b6f186a5961fab806.png
 tags: [FFMPEG, HLS, Codec, Twitch]
 ---
