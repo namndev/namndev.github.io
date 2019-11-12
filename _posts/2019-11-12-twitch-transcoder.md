@@ -108,8 +108,8 @@ If we wanted to transmux instead of transcode the highest variant while transcod
 -c:v copy -c:a copy -hls_list_size  .m3u8
 ```
 
-> Notes:
 
+> Notes:
 > - From the above command, we are transcoding multiple variants out of a single input file. Each “\” denotes a new line, in which we can specify a different combination of flags as well as a unique output name. Each command is independent of the other and can use any other combination of flags.
 > - The primary differences for each command here can be seen in the s and r flags which are explained earlier in the article.
 > - An alternative to running the following transcodes in a single FFmpeg instance is to run multiple instances, one for each desired output in parallel. The 1-in-N-out FFmpeg is a computationally cheaper process, whose reason we will explain next.
@@ -202,9 +202,9 @@ How does FFmpeg programmatically deal with instances where a single input stream
 > Note:
 > The latest FFmpeg release [4.2.1](https://github.com/FFmpeg/FFmpeg/tree/release/4.2)
 
-In the top-level `ffmpeg.c` file, the transcode() function (line `4544`) loops and repeatedly calls `transcode_step()` (line `4478`) until its inputs are completely processed, or until the user interrupts the execution. The `transcode_step()` method wraps the main pipeline and orchestrates file _I/O_, filtering, decoding and encoding amongst many other immediate steps.
+In the top-level `ffmpeg.c` file, the `transcode()` function (line `4552`) loops and repeatedly calls `transcode_step()` (line `4486`) until its inputs are completely processed, or until the user interrupts the execution. The `transcode_step()` method wraps the main pipeline and orchestrates file _I/O_, filtering, decoding and encoding amongst many other immediate steps.
 
-During the initial setup phase, `init_input_threads()` (line `4020`) is called, and based on the number of input files, a number of new threads may be spawned to process the input.
+During the initial setup phase, `init_input_threads()` (line `4028`) is called, and based on the number of input files, a number of new threads may be spawned to process the input.
 
 ```C
 if (nb_input_files == 1) {
@@ -215,15 +215,15 @@ for (i = 0; i < nb_input_files; i++) {
 
    ...
 
-   ret = av_thread_message_queue_alloc(&f->in_thread_queue, f->thread_queue_size, sizeof(AVPacket));    // line 4033
+   ret = av_thread_message_queue_alloc(&f->in_thread_queue, f->thread_queue_size, sizeof(AVPacket));    // line 4041
 
 }
 
 ```
 
-In line `4033`, we see that the number of threads spawned is solely determined by the number of inputs. This means FFmpeg will process a __1-in-N-out__ scenario using only a single thread.
+In line `4041`, we see that the number of threads spawned is solely determined by the number of inputs. This means `FFmpeg` will process a __1-in-N-out__ scenario using only a single thread.
 
-__In `get_input_packet()`__ (line `4055`), __the multithreaded companion function `get_input_packet_mt()`__ (line `4047`) is only called if the number of input files is greater than one. `get_input_packet_mt()` can read input frames from a message queue in a nonblocking fashion. Otherwise, we use `av_read_frame()` (line `4072`) to read a single frame for processing at one time.
+__In `get_input_packet()`__ (line `4063`), __the multithreaded companion function `get_input_packet_mt()`__ (line `4055`) is only called if the number of input files is greater than one. `get_input_packet_mt()` can read input frames from a message queue in a nonblocking fashion. Otherwise, we use `av_read_frame()` (line `4080`) to read a single frame for processing at one time.
 
 ```C
 #if HAVE_PTHREADS
@@ -236,23 +236,23 @@ __In `get_input_packet()`__ (line `4055`), __the multithreaded companion functio
 	return av_read_frame(f->ctx, pkt);
 ```
 
-Following the frame to the end of the pipeline, it enters `process_input_packet()` (line `2591`) which decodes the frame and processes it through all the applicable filters. Timestamp correction and subtitle handling also occurs in this function. Finally, prior to returning, the decoded frame is copied to each relevant output stream.
+Following the frame to the end of the pipeline, it enters `process_input_packet()` (line `2595`) which decodes the frame and processes it through all the applicable filters. Timestamp correction and subtitle handling also occurs in this function. Finally, prior to returning, the decoded frame is copied to each relevant output stream.
 
 ```C
 for (i = 0; pkt && i < nb_output_streams; i++) {
 
    ...  // check constraints
 
-   do_streamcopy(ist, ost, pkt);    // line 2756
+   do_streamcopy(ist, ost, pkt);    // line 2764
 }
 
 ```
 
-Lastly, __`reap_filters()`__ (line 1424) is called from `transcode_step()` to loop through each output stream. The body of `reap_filters()`’s for loop collects frames ready for processing from the buffer and encodes them before muxing them into an output file.
+Lastly, __`reap_filters()`__ (line `1424`) is called from `transcode_step()` to loop through each output stream. The body of `reap_filters()`’s for loop collects frames ready for processing from the buffer and encodes them before muxing them into an output file.
 
 
 ```C
-// reap_filters line 1423
+// reap_filters line 1431
 
 for (i = 0; i < nb_output_streams; i++) { // loop through all output streams
 
@@ -296,15 +296,15 @@ By following this pipeline, we can see redundancy in how these frames are handle
 
 ### Benchmarks
 
-TwitchTranscoder is our in-house software developed to address the technical issues discussed earlier. It has been used in our production to process tens of thousands of concurrent live streams 24/7.
+`TwitchTranscoder` is our in-house software developed to address the technical issues discussed earlier. It has been used in our production to process tens of thousands of concurrent live streams 24/7.
 
-To determine if the TwitchTranscoder would perform better than FFmpeg on daily transcoding tasks, we performed a series of basic benchmark tests. For our tests, we fed both tools with a Twitch live stream as well as a 1080p60 video file using the same presets, profiles, bitrates, and other flags. Each source was transcoded to our typical stack of 720p60, 720p30, 480p30, 360p30, and 160p30.
+To determine if the `TwitchTranscoder` would perform better than FFmpeg on daily transcoding tasks, we performed a series of basic benchmark tests. For our tests, we fed both tools with a Twitch live stream as well as a `1080p60` video file using the same presets, profiles, bitrates, and other flags. Each source was transcoded to our typical stack of `720p60`, `720p30`, `480p30`, `360p30`, and `160p30`.
 
-Our hypothesis was that FFmpeg would transcode slower than TwitchTranscoder for file input, and might even fail to keep up for live streaming.
+Our hypothesis was that `FFmpeg` would transcode slower than `TwitchTranscoder` for file input, and might even fail to keep up for live streaming.
 
-The results in figures 9, 10 and 11 compare the execution time of TwitchTranscoder vs. FFmpeg. They show that our transcoder is indeed faster for offline transcoding, even as we handled the same task and more (providing audio only transcoding, thumbnail generation, and so on in addition to the stack specified above).
+The results in figures 9, 10 and 11 compare the execution time of `TwitchTranscoder` vs. `FFmpeg`. They show that our transcoder is indeed faster for offline transcoding, even as we handled the same task and more (providing audio only transcoding, thumbnail generation, and so on in addition to the stack specified above).
 
-FFmpeg is slightly faster for single-variant output 720p60 because TwitchTranscoder handles more tasks as explained above. When the number of variants increases, TwitchTranscoder’s multithreading model has a greater advantage that helps it outperform FFmpeg. For Twitch’s full ABR ladder, TwitchTranscoder saves 65% execution time in comparison to FFmpeg.
+`FFmpeg` is slightly faster for single-variant output `720p60` because `TwitchTranscoder` handles more tasks as explained above. When the number of variants increases, TwitchTranscoder’s multithreading model has a greater advantage that helps it outperform `FFmpeg`. For Twitch’s full ABR ladder, TwitchTranscoder saves 65% execution time in comparison to FFmpeg.
 
 <p align="center">
     <img src="https://blog.twitch.tv/assets/uploads/22fab7bb307410193f25b0b3278e7a06.png" />
