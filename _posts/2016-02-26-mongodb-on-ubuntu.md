@@ -178,7 +178,7 @@ sudo pip install pymongo
 
 ### Install plugins:
 
-``bash
+```bash
 git clone https://github.com/comerford/mongo-munin.git /tmp/mongo-munin
 sudo cp /tmp/mongo-munin/mongo_* /usr/share/munin/plugins
 sudo ln -sf /usr/share/munin/plugins/mongo_btree /etc/munin/plugins/mongo_btree
