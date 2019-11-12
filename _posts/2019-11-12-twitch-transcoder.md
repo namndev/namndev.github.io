@@ -27,16 +27,14 @@ Within the live stream processing pipeline, the transcoder module is in charge o
 In this article, we will discuss
 
 - How `FFmpeg` satisfies most of the live transcoding requirements,
-
 - What features `FFmpeg` doesn’t provide, and
-
 - Why `Twitch` builds its own in-house transcoder software stack.
 
 ## Using FFmpeg Directly
 
 [FFmpeg](https://www.ffmpeg.org/) is a popular open-source software project, designed to record, process and stream video and audio. It is widely deployed by cloud encoding services for file [transcoding](https://en.wikipedia.org/wiki/Transcoding) and can also be used for live stream [transmuxing](https://en.wikipedia.org/wiki/Transmux) and transcoding.
 
-Suppose we are receiving the most widely used video compression standard of [H.264](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC) in RTMP at 6mbps and 1080p60 (resolution of 1920 by 1080 with a frame rate of 60 frames per second). We want to generate 4 HLS variants of:
+Suppose we are receiving the most widely used video compression standard of [H.264](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC) in `RTMP` at 6mbps and `1080p60` (resolution of 1920 by 1080 with a frame rate of 60 frames per second). We want to generate 4 HLS variants of:
 
 - 1080p60 HLS/H.264,
 
@@ -62,19 +60,12 @@ Notes:
 All parameters surrounded by `<>` require inputs from the user. Some of these are described in greater detail below
 
 - `c:v` specifies the video codec to use, in our case, `libx264`
-
 - `x264opts` specifies libx264 specific options. Here, `IDR interval` should be 2 * your desired `FPS`, so `720p60` would yield an `IDR interval` of 120 while `720p30` would require an `IDR interval` of 60. No-scenecut is used to disable scene change detection
-
 - `s` specifies video size which can be in the form of __`width x height`__ or the name of a size abbreviation
-
 - `r` specifies the `FPS`
-
 - `b:v` specifies a target video bitrate, which is most useful for streaming when there are bandwidth targets and requirements; there is a companion `b:a` for audio
-
 - `profile` refers to [H.264 profile](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC#Profiles)
-
 - `sws_flags` determines what scaling algorithm should be used
-
 - `hls_list_size` is used to determine the maximum number of segments in the playlist (e.g., we can use 6 for live streaming or set it equal to 0 to have a playlist of all the segments). The segment duration (the optional `hls_time` flag) will be same as the `IDR interval`, in our case is 2 seconds.
 
 Since `H.264` is a lossy compression standard, transcoding will inevitably trigger video quality degradation. Moreover, encoding is a very computationally expensive process, particularly for high resolution and high frame rate video. Due to these two constraints, we would ideally like to transmux rather than transcode the highest variant from the source RTMP to save the computational power and preserve the video quality.
@@ -120,9 +111,7 @@ If we wanted to transmux instead of transcode the highest variant while transcod
 > Notes:
 
 > - From the above command, we are transcoding multiple variants out of a single input file. Each “\” denotes a new line, in which we can specify a different combination of flags as well as a unique output name. Each command is independent of the other and can use any other combination of flags.
-
 > - The primary differences for each command here can be seen in the s and r flags which are explained earlier in the article.
-
 > - An alternative to running the following transcodes in a single FFmpeg instance is to run multiple instances, one for each desired output in parallel. The 1-in-N-out FFmpeg is a computationally cheaper process, whose reason we will explain next.
 
 ## A Few Technical Issues
