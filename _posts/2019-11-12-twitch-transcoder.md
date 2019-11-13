@@ -9,6 +9,8 @@ comments: true
 ## Background
 `Twitch` is the world’s leading live streaming platform for video games, esports, and other emerging creative content. Every month, more than 2.2 million unique content creators stream or upload video on our website. At its peak, Twitch ingests tens of thousands of concurrent live video streams and delivers them to viewers across the world.
 
+<iframe src="https://player.twitch.tv/?autoplay=false&video=v498702435" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/videos/498702435?tt_content=text_link&tt_medium=vod_embed" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Watch Demuxed 2019 - Day 1 from Demuxed on www.twitch.tv</a>
+
 Figure 1 depicts the architecture of our live video `Content Delivery Network` ([CDN](https://en.wikipedia.org/wiki/Content_delivery_network)) which delivers tens of thousands of concurrent live streams internationally.
 
 <p align="center">
