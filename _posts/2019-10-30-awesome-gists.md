@@ -18,7 +18,7 @@ A collection of awesome gists. Feel free to contribute.
 
 - [Awesome Android Complete Reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
 - [Awesome Resty](https://github.com/bungle/awesome-resty)
-- [Reference iOS](https://gist.github.com/namndep/aa0ca9ed273ed92361346ee8093818ed)
+- [Reference iOS](https://gist.github.com/namndev/aa0ca9ed273ed92361346ee8093818ed)
 
 ## TOC
 * [Databases](#databases)
@@ -50,7 +50,7 @@ A collection of awesome gists. Feel free to contribute.
 All databases are welcome :)
 
 #### MySQL
-* [My simply MySQL Command Line Cheatsheet](https://gist.github.com/namndep/8398bf1d94bd6c4fd1e0b86ad3a52655)
+* [My simply MySQL Command Line Cheatsheet](https://gist.github.com/namndev/8398bf1d94bd6c4fd1e0b86ad3a52655)
 * [MySQL to Sqlite converter](https://gist.github.com/esperlu/943776)
 
 #### Redis

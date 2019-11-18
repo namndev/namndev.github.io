@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Nam's Gists
+title: Nam Nguyen Developer
 
 # Short description of your site
 description: This is where I will tell my friends what I do
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "namndep.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "namndev.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

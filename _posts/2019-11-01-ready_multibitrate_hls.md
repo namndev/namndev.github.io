@@ -128,7 +128,7 @@ The HLS player needs to know that there are multiple renditions of our video, so
 
 ### Example Conversion Script
 
-Here is an example conversion script [create-hls-vod.sh](https://gist.github.com/namndep/26f90f2f591886bedf1047c4398a98b5)
+Here is an example conversion script [create-hls-vod.sh](https://gist.github.com/namndev/26f90f2f591886bedf1047c4398a98b5)
 
 Running:
 
