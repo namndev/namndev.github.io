@@ -1,7 +1,6 @@
 ---
 title: Kiều thăm mộ Đạm Tiên
 layout: page
-show-avatar: true
 comments: true
 ---
 
@@ -43,7 +42,7 @@ Một người một vẻ, mười phân vẹn mười.
 
 Vân xem trang trọng khác vời,
 
-_20_. Khuôn trăng đầy đặn, nét ngài nở nang.
+`20`. Khuôn trăng đầy đặn, nét ngài nở nang.
 
 Hoa cười ngọc thốt đoan trang,
 
@@ -53,7 +52,7 @@ Kiều càng sắc sảo, mặn mà,
 
 So bề tài, sắc, lại là phần hơn.
 
-_25_. Làn thu thủy, nét xuân sơn,
+`25`. Làn thu thủy, nét xuân sơn,
 
 Hoa ghen thua thắm, liễu hờn kém xanh.
 
@@ -63,7 +62,7 @@ Sắc đành đòi một, tài đành họa hai.
 
 Thông minh vốn sẵn tư trời,
 
-_30_. Pha nghề thi họa, đủ mùi ca ngâm.
+`30`. Pha nghề thi họa, đủ mùi ca ngâm.
 
 Cung thương làu bậc ngũ âm,
 
@@ -73,7 +72,7 @@ Khúc nhà tay lựa nên chương,
 
 Một thiên bạc mệnh, lại càng não nhân.
 
-_35_. Phong lưu rất mực hồng quần,
+`35`. Phong lưu rất mực hồng quần,
 
 Xuân xanh sấp xỉ tới tuần cập kê
 
@@ -83,7 +82,7 @@ Tường đông ong bướm đi về mặc ai.
 
 Ngày xuân con én đưa thoi,
 
-_40_. Thiều quang chín chục đã ngoài sáu mươi.
+`40`. Thiều quang chín chục đã ngoài sáu mươi.
 
 Cỏ non xanh tận chân trời,
 
@@ -93,7 +92,7 @@ Thanh minh trong tiết tháng ba,
 
 Lễ là tảo mộ, hội là đạp Thanh.
 
-_45_. Gần xa nô nức yến anh,
+`45`. Gần xa nô nức yến anh,
 
 Chị em sắm sửa bộ hành chơi xuân.
 
@@ -103,7 +102,7 @@ Ngựa xe như nước áo quần như nêm.
 
 Ngổn ngang gò đống kéo lên,
 
-_50_. Thoi vàng vó rắc tro tiền giấy bay.
+`50`. Thoi vàng vó rắc tro tiền giấy bay.
 
 Tà tà bóng ngả về tây,
 
@@ -114,7 +113,7 @@ Bước dần theo ngọn tiểu khê,
 
 Lần xem phong cảnh có bề thanh thanh.
 
-_55_. Nao nao dòng nước uốn quanh,
+`55`. Nao nao dòng nước uốn quanh,
 
 Dịp cầu nho nhỏ cuối ghềnh bắc ngang.
 
@@ -125,7 +124,7 @@ Dàu dàu ngọn cỏ nửa vàng nửa xanh.
 
 Rằng: Sao trong tiết thanh minh,
 
-_60_. Mà đây hương khói vắng tanh thế mà?
+`60`. Mà đây hương khói vắng tanh thế mà?
 
 Vương Quan mới dẫn gần xa:
 
@@ -135,7 +134,7 @@ Nổi danh tài sắc một thì,
 
 Xôn xao ngoài cửa hiếm gì yến anh.
 
-_65_. Kiếp hồng nhan có mong manh,
+`65`. Kiếp hồng nhan có mong manh,
 
 Nửa chừng xuân thoắt gãy cành thiên hương.
 
@@ -145,7 +144,7 @@ Xa nghe cũng nức tiếng nàng tìm chơi.
 
 Thuyền tình vừa ghé tới nơi,
 
-_70_. Thì đà trâm gẫy bình rơi bao giờ.
+`70`. Thì đà trâm gẫy bình rơi bao giờ.
 
 Buồng không lạnh ngắt như tờ,
 
@@ -155,7 +154,7 @@ Khóc than khôn xiết sự tình,
 
 Khéo vô duyên ấy là mình với ta.
 
-_75_. Đã không duyên trước chăng mà,
+`75`. Đã không duyên trước chăng mà,
 
 Thì chi chút ước gọi là duyên sau.
 
@@ -165,7 +164,7 @@ Vùi nông một nấm mặc dầu cỏ hoa.
 
 Trải bao thỏ lặn ác tà,
 
-_80_. ấy mồ vô chủ, ai mà viếng thăm!
+`80`. ấy mồ vô chủ, ai mà viếng thăm!
 
 Lòng đâu sẵn mối thương tâm,
 
@@ -175,7 +174,7 @@ Thoắt nghe Kiều đã đầm đầm châu sa.
 
 Lời rằng bạc mệnh cũng là lời chung.
 
-_85_. Phũ phàng chi bấy hoá công,
+`85`. Phũ phàng chi bấy hoá công,
 
 Ngày xanh mòn mỏi má hồng phôi pha.
 
@@ -185,7 +184,7 @@ Khéo thay thác xuống làm ma không chồng.
 
 Nào người phượng chạ loan chung,
 
-_90_. Nào người tích lục tham hồng là ai ?
+`90`. Nào người tích lục tham hồng là ai ?
 
 đã không kẻ đoái người hoài,
 
@@ -195,7 +194,7 @@ Gọi là gặp gỡ giữa đường,
 
 Họa là người dưới suối vàng biết cho.
 
-_95_. Lầm rầm khấn khứa nhỏ to,
+`95`. Lầm rầm khấn khứa nhỏ to,
 
 Sụp ngồi vài gật trước mồ bước ra.
 
@@ -205,7 +204,7 @@ Gió hiu hiu thổi một vài bông lau.
 
 Rút trâm sẵn giắt mái đầu,
 
-_100_. Vạch da cây vịnh bốn câu ba vần.
+`100`. Vạch da cây vịnh bốn câu ba vần.
 
 Lại càng mê mẩn tâm thần
 
@@ -215,7 +214,7 @@ Lại càng ủ dột nét hoa,
 
 Sầu tuôn đứt nối, châu sa vắn dài.
 
-_105_. Vân rằng: Chị cũng nực cười,
+`105`. Vân rằng: Chị cũng nực cười,
 
 Khéo dư nước mắt khóc người đời xưa.
 
@@ -225,7 +224,7 @@ Cái điều bạc mệnh có chừa ai đâu ?
 
 Nỗi niềm tưởng đến mà đau,
 
-_110_. Thấy người nằm đó biết sau thế nào ?
+`110`. Thấy người nằm đó biết sau thế nào ?
 
 Quan rằng: Chị nói hay sao,
 
@@ -235,7 +234,7 @@ Một lời là một vận vào khó nghe.
 
 Bóng chiều đã ngả dậm về còn xa.
 
-_115_. Kiều rằng: Những đấng tài hoa,
+`115`. Kiều rằng: Những đấng tài hoa,
 
 Thác là thể phách, còn là tinh anh,
 
@@ -245,7 +244,7 @@ Chờ xem ắt thấy hiển linh bây giờ.
 
 Một lời nói chửa kịp thưa,
 
-_120_. Phút đâu trận gió cuốn cờ đến ngay.
+`120`. Phút đâu trận gió cuốn cờ đến ngay.
 
 ào ào đổ lộc rung cây,
 
@@ -255,7 +254,7 @@ _120_. Phút đâu trận gió cuốn cờ đến ngay.
 
 Dấu giày từng bước in rêu rành rành.
 
-_125_. Mắt nhìn ai nấy đều kinh,
+`125`. Mắt nhìn ai nấy đều kinh,
 
 Nàng rằng: Này thực tinh thành chẳng xa.
 
@@ -265,7 +264,7 @@ Chớ nề u hiển mới là chị em.
 
 Đã lòng hiển hiện cho xem,. Tạ lòng nàng lại nối thêm vài lời.
 
-_130_. Lòng thơ lai láng bồi hồi,
+`130`. Lòng thơ lai láng bồi hồi,
 
 Gốc cây lại vạch một bài cổ thi.
 
@@ -273,7 +272,7 @@ Dùng dằng nửa ở nửa về,
 
 Nhạc vàng đâu đã tiếng nghe gần gần.
 
-_135_. Trông chừng thấy một văn nhân,
+`135`. Trông chừng thấy một văn nhân,
 
 Lỏng buông tay khấu bước lần dặm băng.
 
@@ -283,7 +282,7 @@ Sau chân theo một vài thằng con con.
 
 Tuyết in sắc ngựa câu giòn,
 
-_140_. Cỏ pha màu áo nhuộm non da trời.
+`140`. Cỏ pha màu áo nhuộm non da trời.
 
 Nẻo xa mới tỏ mặt người,
 
@@ -293,7 +292,7 @@ Hài văn lần bước dặm xanh,
 
 Một vùng như thể cây quỳnh cành dao.
 
-_145_. Chàng Vương quen mặt ra chào,
+`145`. Chàng Vương quen mặt ra chào,
 
 Hai Kiều e lệ nép vào dưới hoa.
 
@@ -303,7 +302,7 @@ Họ Kim tên Trọng vốn nhà trâm anh.
 
 Nền phú hậu, bậc tài danh,
 
-_150_. Văn chương nết đất, thông minh tính trời.
+`150`. Văn chương nết đất, thông minh tính trời.
 
 Phong tư tài mạo tót vời,
 
@@ -313,7 +312,7 @@ Chung quanh vẫn đất nước nhà,
 
 Với Vương Quan trước vẫn là đồng thân.
 
-_155_. Vẫn nghe thơm nức hương lân,
+`155`. Vẫn nghe thơm nức hương lân,
 
 Một nền đồng Tước khoá xuân hai Kiều.
 
@@ -323,7 +322,7 @@ Những là trộm nhớ thầm yêu chốc mòng.
 
 May thay giải cấu tương phùng,
 
-_160_. Gặp tuần đố lá thoả lòng tìm hoa.
+`160`. Gặp tuần đố lá thoả lòng tìm hoa.
 
 Bóng hồng nhác thấy nẻo xa,
 
@@ -333,7 +332,7 @@ Người quốc sắc, kẻ thiên tài,
 
 Tình trong như đã, mặt ngoài còn e.
 
-_165_. Chập chờn cơn tỉnh cơn mê.
+`165`. Chập chờn cơn tỉnh cơn mê.
 
 Rốn ngồi chẳng tiện, dứt về chỉn khôn.
 
@@ -343,7 +342,7 @@ Khách đà lên ngựa, người còn nghé theo.
 
 Dưới cầu nước chảy trong veo,
 
-_170_. Bên cầu tơ liễu bóng chiều thướt tha.
+`170`. Bên cầu tơ liễu bóng chiều thướt tha.
 
 Kiều từ trở gót trướng hoa,
 
@@ -353,7 +352,7 @@ Mảnh trăng chênh chếch dòm song,
 
 Vàng gieo ngấn nước, cây lồng bóng sân.
 
-_175_. Hải đường lả ngọn đông lân,
+`175`. Hải đường lả ngọn đông lân,
 
 Giọt sương gieo nặng cành xuân la đà.
 
@@ -363,7 +362,7 @@ Rộn đường gần với nỗi xa bời bời:
 
 Người mà đến thế thì thôi,
 
-_180_. Đời phồn hoa cũng là đời bỏ đi!
+`180`. Đời phồn hoa cũng là đời bỏ đi!
 
 Người đâu gặp gỡ làm chi,
 
@@ -373,7 +372,7 @@ Ngổn ngang trăm mối bên lòng,
 
 Nên câu tuyệt diệu ngụ trong tính tình.
 
-_185_. Chênh chênh bóng nguyệt xế mành,
+`185`. Chênh chênh bóng nguyệt xế mành,
 
 Tựa nương bên triện một mình thiu thiu.
 
@@ -383,7 +382,7 @@ Có chiều thanh vận, có chiều thanh tân.
 
 Sương in mặt, tuyết pha thân,
 
-_190_. Sen vàng lãng đãng như gần như xa.
+`190`. Sen vàng lãng đãng như gần như xa.
 
 Chào mừng đón hỏi dò la:
 
@@ -393,7 +392,7 @@ Thưa rằng: Thanh khí xưa nay,
 
 Mới cùng nhau lúc ban ngày đã quên.
 
-_195_. Hàn gia ở mé tây thiên,
+`195`. Hàn gia ở mé tây thiên,
 
 Dưới dòng nước chảy bên trên có cầu.
 
@@ -403,7 +402,7 @@ Mấy lời hạ tứ ném châu gieo vàng.
 
 Vâng trình hội chủ xem tường,
 
-_200_. Mà sao trong sổ đoạn trường có tên.
+`200`. Mà sao trong sổ đoạn trường có tên.
 
 Âu đành quả kiếp nhân duyên,
 
@@ -413,7 +412,7 @@ Này mười bài mới mới ra,
 
 Câu thần lại mượn bút hoa vẽ vời.
 
-_205_. Kiều vâng lĩnh ý đề bài,
+`205`. Kiều vâng lĩnh ý đề bài,
 
 Tay tiên một vẫy đủ mười khúc ngâm.
 
@@ -423,7 +422,7 @@ Giá đành tú khẩu cẩm tâm khác thường
 
 Ví đem vào tập đoạn Trường
 
-_210_. Thì treo giải nhất chi nhường cho ai.
+`210`. Thì treo giải nhất chi nhường cho ai.
 
 Thềm hoa khách đã trở hài,
 
@@ -433,7 +432,7 @@ Gió đâu xịch bức mành mành,
 
 Tỉnh ra mới biết rằng mình chiêm bao.
 
-_215_. Trông theo nào thấy đâu nào
+`215`. Trông theo nào thấy đâu nào
 
 Hương thừa dường hãy ra vào đâu đây.
 
@@ -443,7 +442,7 @@ Một mình lưỡng lự canh chầy,
 
 Hoa trôi bèo dạt đã đành,
 
-_220_. Biết duyên mình, biết phận mình thế thôi !
+`220`. Biết duyên mình, biết phận mình thế thôi !
 
 Nỗi riêng lớp lớp sóng dồi,
 
@@ -453,7 +452,7 @@ Giọng Kiều rền rĩ trướng loan,
 
 Nhà Huyên chợt tỉnh hỏi: Cơn cớ gì ?
 
-_225_. Cớ sao trằn trọc canh khuya,
+`225`. Cớ sao trằn trọc canh khuya,
 
 Màu hoa lê hãy dầm dề giọt mưa ?
 
@@ -463,7 +462,7 @@ Dưỡng sinh đôi nợ tóc tơ chưa đền.
 
 Buổi ngày chơi mả đạm Tiên,
 
-_230_. Nhắp đi thoắt thấy ứng liền chiêm bao.
+`230`. Nhắp đi thoắt thấy ứng liền chiêm bao.
 
 đoạn trường là số thế nào,
 
@@ -473,7 +472,7 @@ Cứ trong mộng triệu mà suy,
 
 Phận con thôi có ra gì mai sau !
 
-_235_. Dạy rằng: Mộng triệu cớ đâu,
+`235`. Dạy rằng: Mộng triệu cớ đâu,
 
 Bỗng không mua não chuốc sầu nghĩ nao.
 
@@ -483,7 +482,7 @@ Chưa xong điều nghĩ đã dào mạch Tương.
 
 Ngoài song thỏ thẻ oanh vàng,
 
-_240_. Nách tường bông liễu bay ngang trước mành.
+`240`. Nách tường bông liễu bay ngang trước mành.
 
 Hiên tà gác bóng chênh chênh,
 

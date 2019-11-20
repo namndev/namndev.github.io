@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Truyện Kiều - Nguyễn Du
 comments: true
 ---
@@ -39,3 +39,5 @@ Tác phẩm tiêu biểu cho thiên tài Nguyễn Du là Đoạn trường tân 
 Truyện Kiều đóng một vai trò quan trọng trong sinh hoạt văn hoá Việt Nam. Nhiều nhân vật trong Truyện Kiều trở thành điển hình cho những mẫu người trong xã hội cũ, mang những tính cách tiêu biểu Sở Khanh, Hoạn Thư, Từ Hải, và đều đi vào thành ngữ Việt Nam. Khả năng khái quát của nhiều cảnh tình, ngôn ngữ, trong tác phẩm khiến cho quần chúng tìm đến Truyện Kiều, như tìm một điều dự báo. Bói Kiều rất phổ biến trong quần chúng ngày xưa. Ca nhạc dân gian có dạng Lẩy Kiều. Sân khấu dân gian có trò Kiều. Hội họa có nhiều tranh Kiều. Thơ vịnh Kiều nhiều không kể xiết. Giai thoại xung quanhi cũng rất phong phú. Tuồng Kiều, cải lương Kiều, phim Kiều cũng ra đời. Nhiều câu, nhiều ngữ trong Truyện Kiều đã lẫn vào kho tàng ca dao, tục ngữ. Từ xưa đến nay, Truyện Kiều đã là đầu đề cho nhiều công trình nghiên cứu, bình luận và những cuộc bút chiến. Ngay khi Truyện Kiều được công bố (đầu thế kỷ XIX) ở nhiều trường học của các nho sĩ, nhiều văn đàn, thi xã đã có trao đổi về nội dung và nghệ thuật của tác phẩm. Đầu thế kỷ XX, cuộc tranh luận về Truyện Kiều càng sôi nổi, quan trọng nhất là cuộc phê phán của các nhà chí sĩ Ngô Đức Kế, Huỳnh Thúc Kháng phản đối phong trào cổ xuý Truyện Kiều do Phạm Quỳnh đề xướng (1924).
 
 Năm 1965, Nguyễn Du chính thức được nhà nước làm lễ kỷ niệm, Hội đồng hoà bình thế giới ghi tên ông trong danh sách những nhà văn hoá thế giới. Nhà lưu niệm Nguyễn Du được xây dựng ở làng quê ông xã Tiên Điền. Trường viết văn để đào tạo những cây bút mới mang tên ông.
+
+[Đọc tiếp](/page/truyenkieu/kieu-tham-mo-dam-tien/)
