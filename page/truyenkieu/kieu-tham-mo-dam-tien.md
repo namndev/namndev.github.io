@@ -23,7 +23,7 @@ comments: true
 + [Kiều - Kim Trọng đoàn tụ](/page/truyenkieu/kieu-kim-trong-doan-tu/) _(2973-3254)_
 <center>
 <br>
-<b>1.</b><i> Trăm năm trong cõi người ta,<br></i>
+<b>1.</b><i>. Trăm năm trong cõi người ta,<br></i>
 <i>Chữ tài chữ mệnh khéo là ghét nhau.<br>
 </i>
 <i>Trải qua một cuộc bể dâu,<br>
@@ -31,7 +31,7 @@ comments: true
 <i>Những điều trông thấy mà đau đớn lòng.<br>
 </i>
 <br>
-<b>5.</b><i> Lạ gì bỉ sắc tư phong,<br></i>
+<b>5.</b><i>. Lạ gì bỉ sắc tư phong,<br></i>
 <i>Trời xanh quen thói má hồng đánh ghen.<br>
 </i>
 <i>Cảo thơm lần giở trước đèn,<br>
@@ -41,7 +41,7 @@ comments: true
 <i>Rằng năm Gia Tĩnh triều Minh,<br>
 </i>
 <br>
-<b>10.</b><i> Bốn phương phẳng lặng, hai kinh vững vàng.<br></i>
+<b>10.</b><i>. Bốn phương phẳng lặng, hai kinh vững vàng.<br></i>
 <i>Có nhà viên ngoại họ Vương,<br>
 </i>
 <i>Gia tư nghĩ cũng thường thường bực trung.<br>
@@ -51,7 +51,7 @@ comments: true
 <i>Vương Quan là chữ, nối dòng nho gia.<br>
 </i>
 <br>
-<b>15.</b><i> Đầu lòng hai ả tố nga,<br></i>
+<b>15.</b><i>. Đầu lòng hai ả tố nga,<br></i>
 <i>Thúy Kiều là chị, em là Thúy Vân.<br>
 </i>
 <i>Mai cốt cách, tuyết tinh thần,<br>
@@ -61,7 +61,7 @@ comments: true
 <i>Vân xem trang trọng khác vời,<br>
 </i>
 <br>
-<b>20.</b><i> Khuôn trăng đầy đặn, nét ngài nở nang.<br></i>
+<b>20.</b><i>. Khuôn trăng đầy đặn, nét ngài nở nang.<br></i>
 <i>Hoa cười ngọc thốt đoan trang,<br>
 </i>
 <i>Mây thua nước tóc, tuyết nhường màu da.<br>
@@ -71,7 +71,7 @@ comments: true
 <i>So bề tài, sắc, lại là phần hơn.<br>
 </i>
 <br>
-<b>25.</b><i> Làn thu thủy, nét xuân sơn,<br></i>
+<b>25.</b><i>. Làn thu thủy, nét xuân sơn,<br></i>
 <i>Hoa ghen thua thắm, liễu hờn kém xanh.<br>
 </i>
 <i>Một, hai nghiêng nước nghiêng thành,<br>
@@ -81,7 +81,7 @@ comments: true
 <i>Thông minh vốn sẵn tư trời,<br>
 </i>
 <br>
-<b>30.</b><i> Pha nghề thi họa, đủ mùi ca ngâm.<br></i>
+<b>30.</b><i>. Pha nghề thi họa, đủ mùi ca ngâm.<br></i>
 <i>Cung thương làu bậc ngũ âm,<br>
 </i>
 <i>Nghề riêng ăn đứt Hồ cầm một trương.<br>
@@ -91,7 +91,7 @@ comments: true
 <i>Một thiên bạc mệnh, lại càng não nhân.<br>
 </i>
 <br>
-<b>35.</b><i> Phong lưu rất mực hồng quần,<br></i>
+<b>35.</b><i>. Phong lưu rất mực hồng quần,<br></i>
 <i>Xuân xanh sấp xỉ tới tuần cập kê<br>
 </i>
 <i>Êm đềm trướng rủ màn che,<br>
@@ -101,7 +101,7 @@ comments: true
 <i>Ngày xuân con én đưa thoi,<br>
 </i>
 <br>
-<b>40.</b><i> Thiều quang chín chục đã ngoài sáu mươi.<br></i>
+<b>40.</b><i>. Thiều quang chín chục đã ngoài sáu mươi.<br></i>
 <i>Cỏ non xanh tận chân trời,<br>
 </i>
 <i>Cành lê trắng điểm một vài bông hoa.<br>
@@ -111,7 +111,7 @@ comments: true
 <i>Lễ là tảo mộ, hội là đạp Thanh.<br>
 </i>
 <br>
-<b>45.</b><i> Gần xa nô nức yến anh,<br></i>
+<b>45.</b><i>. Gần xa nô nức yến anh,<br></i>
 <i>Chị em sắm sửa bộ hành chơi xuân.<br>
 </i>
 <i>Dập dìu tài tử, giai nhân,<br>
@@ -121,7 +121,7 @@ comments: true
 <i>Ngổn ngang gò đống kéo lên,<br>
 </i>
 <br>
-<b>50.</b><i> Thoi vàng vó rắc tro tiền giấy bay.<br></i>
+<b>50.</b><i>. Thoi vàng vó rắc tro tiền giấy bay.<br></i>
 <i>Tà tà bóng ngả về tây,<br>
 </i>
 <i>Chị em thơ thẩn dan tay ra về.<br>
@@ -131,7 +131,7 @@ comments: true
 <i>Lần xem phong cảnh có bề thanh thanh.<br>
 </i>
 <br>
-<b>55.</b><i> Nao nao dòng nước uốn quanh,<br></i>
+<b>55.</b><i>. Nao nao dòng nước uốn quanh,<br></i>
 <i>Dịp cầu nho nhỏ cuối ghềnh bắc ngang.<br>
 </i>
 <i>Sè sè nấm đất bên đàng, <br>
@@ -141,7 +141,7 @@ comments: true
 <i>Rằng: Sao trong tiết thanh minh,<br>
 </i>
 <br>
-<b>60.</b><i> Mà đây hương khói vắng tanh thế mà?<br></i>
+<b>60.</b><i>. Mà đây hương khói vắng tanh thế mà?<br></i>
 <i>Vương Quan mới dẫn gần xa:<br>
 </i>
 <i>Đạm Tiên nàng ấy xưa là ca nhi.<br>
@@ -151,7 +151,7 @@ comments: true
 <i>Xôn xao ngoài cửa hiếm gì yến anh.<br>
 </i>
 <br>
-<b>65.</b><i> Kiếp hồng nhan có mong manh,<br></i>
+<b>65.</b><i>. Kiếp hồng nhan có mong manh,<br></i>
 <i>Nửa chừng xuân thoắt gãy cành thiên hương.<br>
 </i>
 <i>Có người khách ở viễn phương,<br>
@@ -161,7 +161,7 @@ comments: true
 <i>Thuyền tình vừa ghé tới nơi,<br>
 </i>
 <br>
-<b>70.</b><i> Thì đà trâm gẫy bình rơi bao giờ.<br></i>
+<b>70.</b><i>. Thì đà trâm gẫy bình rơi bao giờ.<br></i>
 <i>Buồng không lạnh ngắt như tờ,<br>
 </i>
 <i>Dấu xe ngựa đã rêu lờ mờ xanh.<br>
@@ -171,7 +171,7 @@ comments: true
 <i>Khéo vô duyên ấy là mình với ta.<br>
 </i>
 <br>
-<b>75.</b><i> Đã không duyên trước chăng mà,<br></i>
+<b>75.</b><i>. Đã không duyên trước chăng mà,<br></i>
 <i>Thì chi chút ước gọi là duyên sau.<br>
 </i>
 <i>Sắm xanh nếp tử xe châu,<br>
@@ -181,7 +181,7 @@ comments: true
 <i>Trải bao thỏ lặn ác tà,<br>
 </i>
 <br>
-<b>80.</b><i> ấy mồ vô chủ, ai mà viếng thăm!<br></i>
+<b>80.</b><i>. ấy mồ vô chủ, ai mà viếng thăm!<br></i>
 <i>Lòng đâu sẵn mối thương tâm,<br>
 </i>
 <i>Thoắt nghe Kiều đã đầm đầm châu sa.<br>
@@ -191,7 +191,7 @@ comments: true
 <i>Lời rằng bạc mệnh cũng là lời chung.<br>
 </i>
 <br>
-<b>85.</b><i> Phũ phàng chi bấy hoá công,<br></i>
+<b>85.</b><i>. Phũ phàng chi bấy hoá công,<br></i>
 <i>Ngày xanh mòn mỏi má hồng phôi pha.<br>
 </i>
 <i>Sống làm vợ khắp người ta,<br>
@@ -201,7 +201,7 @@ comments: true
 <i>Nào người phượng chạ loan chung,<br>
 </i>
 <br>
-<b>90.</b><i> Nào người tích lục tham hồng là ai ?<br></i>
+<b>90.</b><i>. Nào người tích lục tham hồng là ai ?<br></i>
 <i>đã không kẻ đoái người hoài,<br>
 </i>
 <i>Sẵn đây ta kiếm một vài nén hương.<br>
@@ -211,7 +211,7 @@ comments: true
 <i>Họa là người dưới suối vàng biết cho.<br>
 </i>
 <br>
-<b>95.</b><i> Lầm rầm khấn khứa nhỏ to,<br></i>
+<b>95.</b><i>. Lầm rầm khấn khứa nhỏ to,<br></i>
 <i>Sụp ngồi vài gật trước mồ bước ra.<br>
 </i>
 <i>Một vùng cỏ áy bóng tà,<br>
@@ -221,7 +221,7 @@ comments: true
 <i>Rút trâm sẵn giắt mái đầu,<br>
 </i>
 <br>
-<b>100.</b><i> Vạch da cây vịnh bốn câu ba vần.<br></i>
+<b>100.</b><i>. Vạch da cây vịnh bốn câu ba vần.<br></i>
 <i>Lại càng mê mẩn tâm thần<br>
 </i>
 <i>Lại càng đứng lặng tần ngần chẳng ra.<br>
@@ -231,7 +231,7 @@ comments: true
 <i>Sầu tuôn đứt nối, châu sa vắn dài.<br>
 </i>
 <br>
-<b>105.</b><i> Vân rằng: Chị cũng nực cười,<br></i>
+<b>105.</b><i>. Vân rằng: Chị cũng nực cười,<br></i>
 <i>Khéo dư nước mắt khóc người đời xưa.<br>
 </i>
 <i>Rằng: Hồng nhan tự thuở xưa,<br>
@@ -241,7 +241,7 @@ comments: true
 <i>Nỗi niềm tưởng đến mà đau,<br>
 </i>
 <br>
-<b>110.</b><i> Thấy người nằm đó biết sau thế nào ?<br></i>
+<b>110.</b><i>. Thấy người nằm đó biết sau thế nào ?<br></i>
 <i>Quan rằng: Chị nói hay sao,<br>
 </i>
 <i>Một lời là một vận vào khó nghe.<br>
@@ -253,7 +253,7 @@ comments: true
 <i>Bóng chiều đã ngả dậm về còn xa.<br>
 </i>
 <br>
-<b>115.</b><i> Kiều rằng: Những đấng tài hoa,<br></i>
+<b>115.</b><i>. Kiều rằng: Những đấng tài hoa,<br></i>
 <i>Thác là thể phách, còn là tinh anh,<br>
 </i>
 <i>Dễ hay tình lại gặp tình,<br>
@@ -273,7 +273,7 @@ comments: true
 <i>Dấu giày từng bước in rêu rành rành.<br>
 </i>
 <br>
-<b>125.</b><i> Mắt nhìn ai nấy đều kinh,<br></i>
+<b>125.</b><i>. Mắt nhìn ai nấy đều kinh,<br></i>
 <i>Nàng rằng: Này thực tinh thành chẳng xa.<br>
 </i>
 <i>Hữu tình ta lại gặp ta,<br>
@@ -291,7 +291,7 @@ comments: true
 <i>Nhạc vàng đâu đã tiếng nghe gần gần.<br>
 </i>
 <br>
-<b>135.</b><i> Trông chừng thấy một văn nhân,<br></i>
+<b>135.</b><i>. Trông chừng thấy một văn nhân,<br></i>
 <i>Lỏng buông tay khấu bước lần dặm băng.<br>
 </i>
 <i>đề huề lưng túi gió trăng,<br>
@@ -301,7 +301,7 @@ comments: true
 <i>Tuyết in sắc ngựa câu giòn,<br>
 </i>
 <br>
-<b>140.</b><i> Cỏ pha màu áo nhuộm non da trời.<br></i>
+<b>140.</b><i>. Cỏ pha màu áo nhuộm non da trời.<br></i>
 <i>Nẻo xa mới tỏ mặt người,<br>
 </i>
 <i>Khách đà xuống ngựa tới nơi tự tình.<br>
@@ -311,7 +311,7 @@ comments: true
 <i>Một vùng như thể cây quỳnh cành dao.<br>
 </i>
 <br>
-<b>145.</b><i> Chàng Vương quen mặt ra chào,<br></i>
+<b>145.</b><i>. Chàng Vương quen mặt ra chào,<br></i>
 <i>Hai Kiều e lệ nép vào dưới hoa.<br>
 </i>
 <i>Nguyên người quanh quất đâu xa,<br>
@@ -321,7 +321,7 @@ comments: true
 <i>Nền phú hậu, bậc tài danh,<br>
 </i>
 <br>
-<b>150.</b><i> Văn chương nết đất, thông minh tính trời.<br></i>
+<b>150.</b><i>. Văn chương nết đất, thông minh tính trời.<br></i>
 <i>Phong tư tài mạo tót vời,<br>
 </i>
 <i>Vào trong phong nhã, ra ngoài hào hoa.<br>
@@ -331,7 +331,7 @@ comments: true
 <i>Với Vương Quan trước vẫn là đồng thân.<br>
 </i>
 <br>
-<b>155.</b><i> Vẫn nghe thơm nức hương lân,<br></i>
+<b>155.</b><i>. Vẫn nghe thơm nức hương lân,<br></i>
 <i>Một nền đồng Tước khoá xuân hai Kiều.<br>
 </i>
 <i>Nước non cách mấy buồng thêu,<br>
@@ -341,7 +341,7 @@ comments: true
 <i>May thay giải cấu tương phùng,<br>
 </i>
 <br>
-<b>160.</b><i> Gặp tuần đố lá thoả lòng tìm hoa.<br></i>
+<b>160.</b><i>. Gặp tuần đố lá thoả lòng tìm hoa.<br></i>
 <i>Bóng hồng nhác thấy nẻo xa,<br>
 </i>
 <i>Xuân lan thu cúc mặn mà cả hai.<br>
@@ -351,7 +351,7 @@ comments: true
 <i>Tình trong như đã, mặt ngoài còn e.<br>
 </i>
 <br>
-<b>165.</b><i> Chập chờn cơn tỉnh cơn mê.<br></i>
+<b>165.</b><i>. Chập chờn cơn tỉnh cơn mê.<br></i>
 <i>Rốn ngồi chẳng tiện, dứt về chỉn khôn.<br>
 </i>
 <i>Bóng tà như giục cơn buồn,<br>
@@ -361,7 +361,7 @@ comments: true
 <i>Dưới cầu nước chảy trong veo,<br>
 </i>
 <br>
-<b>170.</b><i> Bên cầu tơ liễu bóng chiều thướt tha.<br></i>
+<b>170.</b><i>. Bên cầu tơ liễu bóng chiều thướt tha.<br></i>
 <i>Kiều từ trở gót trướng hoa,<br>
 </i>
 <i>Mặt trời gác núi chiêng đà thu không.<br>
@@ -371,7 +371,7 @@ comments: true
 <i>Vàng gieo ngấn nước, cây lồng bóng sân.<br>
 </i>
 <br>
-<b>175.</b><i> Hải đường lả ngọn đông lân,<br></i>
+<b>175.</b><i>. Hải đường lả ngọn đông lân,<br></i>
 <i>Giọt sương gieo nặng cành xuân la đà.<br>
 </i>
 <i>Một mình lặng ngắm bóng nga,<br>
@@ -381,7 +381,7 @@ comments: true
 <i>Người mà đến thế thì thôi,<br>
 </i>
 <br>
-<b>180.</b><i> Đời phồn hoa cũng là đời bỏ đi!<br></i>
+<b>180.</b><i>. Đời phồn hoa cũng là đời bỏ đi!<br></i>
 <i>Người đâu gặp gỡ làm chi,<br>
 </i>
 <i>Trăm năm biết có duyên gì hay không?<br>
@@ -391,7 +391,7 @@ comments: true
 <i>Nên câu tuyệt diệu ngụ trong tính tình.<br>
 </i>
 <br>
-<b>185.</b><i> Chênh chênh bóng nguyệt xế mành,<br></i>
+<b>185.</b><i>. Chênh chênh bóng nguyệt xế mành,<br></i>
 <i>Tựa nương bên triện một mình thiu thiu.<br>
 </i>
 <i>Thoắt đâu thấy một tiểu kiều,<br>
@@ -401,7 +401,7 @@ comments: true
 <i>Sương in mặt, tuyết pha thân,<br>
 </i>
 <br>
-<b>190.</b><i> Sen vàng lãng đãng như gần như xa.<br></i>
+<b>190.</b><i>. Sen vàng lãng đãng như gần như xa.<br></i>
 <i>Chào mừng đón hỏi dò la:<br>
 </i>
 <i>Đào nguyên lạc lối đâu mà đến đây ?<br>
@@ -411,7 +411,7 @@ comments: true
 <i>Mới cùng nhau lúc ban ngày đã quên.<br>
 </i>
 <br>
-<b>195.</b><i> Hàn gia ở mé tây thiên,<br></i>
+<b>195.</b><i>. Hàn gia ở mé tây thiên,<br></i>
 <i>Dưới dòng nước chảy bên trên có cầu.<br>
 </i>
 <i>Mấy lòng hạ cố đến nhau,<br>
@@ -421,7 +421,7 @@ comments: true
 <i>Vâng trình hội chủ xem tường,<br>
 </i>
 <br>
-<b>200.</b><i> Mà sao trong sổ đoạn trường có tên.<br></i>
+<b>200.</b><i>. Mà sao trong sổ đoạn trường có tên.<br></i>
 <i>Âu đành quả kiếp nhân duyên,<br>
 </i>
 <i>Cùng người một hội, một thuyền đâu xa!<br>
@@ -431,7 +431,7 @@ comments: true
 <i>Câu thần lại mượn bút hoa vẽ vời.<br>
 </i>
 <br>
-<b>205.</b><i> Kiều vâng lĩnh ý đề bài,<br></i>
+<b>205.</b><i>. Kiều vâng lĩnh ý đề bài,<br></i>
 <i>Tay tiên một vẫy đủ mười khúc ngâm.<br>
 </i>
 <i>Xem thơ nức nở khen thầm:<br>
@@ -441,7 +441,7 @@ comments: true
 <i>Ví đem vào tập đoạn Trường<br>
 </i>
 <br>
-<b>210.</b><i> Thì treo giải nhất chi nhường cho ai.<br></i>
+<b>210.</b><i>. Thì treo giải nhất chi nhường cho ai.<br></i>
 <i>Thềm hoa khách đã trở hài,<br>
 </i>
 <i>Nàng còn cầm lại một hai tự tình.<br>
@@ -451,7 +451,7 @@ comments: true
 <i>Tỉnh ra mới biết rằng mình chiêm bao.<br>
 </i>
 <br>
-<b>215.</b><i> Trông theo nào thấy đâu nào<br></i>
+<b>215.</b><i>. Trông theo nào thấy đâu nào<br></i>
 <i>Hương thừa dường hãy ra vào đâu đây.<br>
 </i>
 <i>Một mình lưỡng lự canh chầy,<br>
@@ -461,7 +461,7 @@ comments: true
 <i>Hoa trôi bèo dạt đã đành,<br>
 </i>
 <br>
-<b>220.</b><i> Biết duyên mình, biết phận mình thế thôi !<br></i>
+<b>220.</b><i>. Biết duyên mình, biết phận mình thế thôi !<br></i>
 <i>Nỗi riêng lớp lớp sóng dồi,<br>
 </i>
 <i>Nghĩ đòi cơn lại sụt sùi đòi cơn.<br>
@@ -471,7 +471,7 @@ comments: true
 <i>Nhà Huyên chợt tỉnh hỏi: Cơn cớ gì ?<br>
 </i>
 <br>
-<b>225.</b><i> Cớ sao trằn trọc canh khuya,<br></i>
+<b>225.</b><i>. Cớ sao trằn trọc canh khuya,<br></i>
 <i>Màu hoa lê hãy dầm dề giọt mưa ?<br>
 </i>
 <i>Thưa rằng: Chút phận ngây thơ,<br>
@@ -481,7 +481,7 @@ comments: true
 <i>Buổi ngày chơi mả đạm Tiên,<br>
 </i>
 <br>
-<b>230.</b><i> Nhắp đi thoắt thấy ứng liền chiêm bao.<br></i>
+<b>230.</b><i>. Nhắp đi thoắt thấy ứng liền chiêm bao.<br></i>
 <i>đoạn trường là số thế nào,<br>
 </i>
 <i>Bài ra thế ấy, vịnh vào thế kia.<br>
@@ -491,7 +491,7 @@ comments: true
 <i>Phận con thôi có ra gì mai sau !<br>
 </i>
 <br>
-<b>235.</b><i> Dạy rằng: Mộng triệu cớ đâu,<br></i>
+<b>235.</b><i>. Dạy rằng: Mộng triệu cớ đâu,<br></i>
 <i>Bỗng không mua não chuốc sầu nghĩ nao.<br>
 </i>
 <i>Vâng lời khuyên giải thấp cao,<br>
@@ -501,7 +501,7 @@ comments: true
 <i>Ngoài song thỏ thẻ oanh vàng,<br>
 </i>
 <br>
-<b>240.</b><i> Nách tường bông liễu bay ngang trước mành.<br></i>
+<b>240.</b><i>. Nách tường bông liễu bay ngang trước mành.<br></i>
 <i>Hiên tà gác bóng chênh chênh,<br>
 </i>
 <i>Nỗi riêng, riêng trạnh tấc riêng một mình.<br>
