@@ -6,7 +6,7 @@ comments: true
 ---
 
 <h1 align="center">
-    <img alt="" title="Lumen" src="./kieu.gif" width="160" />
+    <img alt="" title="Lumen" src="./img/kieu.gif" width="160" />
    </br>
     Truyện Kiều
 </h1>
