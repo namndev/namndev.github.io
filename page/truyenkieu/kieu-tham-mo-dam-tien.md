@@ -1,3 +1,9 @@
+---
+layout: page
+title: Truyện Kiều - Nguyễn Du
+comments: true
+---
+
 ## Kiều thăm mộ Đạm Tiên
 
 _1_.Trăm năm trong cõi người ta,
