@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Truyện Kiều - Nguyễn Du
 comments: true
 ---
