@@ -6,7 +6,7 @@ comments: true
 ---
 
 <h1 align="center">
-    <img alt="" title="Kieu" src="./img/kieu.gif" width="160" />
+    <img alt="" title="Kieu" src="../img/kieu.gif" width="160" />
    </br>
     Truyện Kiều
 </h1>
@@ -43,7 +43,7 @@ Năm 1965, Nguyễn Du chính thức được nhà nước làm lễ kỷ niệm
 <a name="kieu-tham-mo-dam-tien"></a>
 ## Kiều thăm mộ Đạm Tiên
 
-1.Trăm năm trong cõi người ta,
+_1_.Trăm năm trong cõi người ta,
 
 Chữ tài chữ mệnh khéo là ghét nhau.
 
@@ -51,7 +51,7 @@ Trải qua một cuộc bể dâu,
 
 Những điều trông thấy mà đau đớn lòng.
 
-5. Lạ gì bỉ sắc tư phong,
+_5_. Lạ gì bỉ sắc tư phong,
 
 Trời xanh quen thói má hồng đánh ghen.
 
@@ -61,7 +61,7 @@ Phong tình có lục còn truyền sử xanh.
 
 Rằng năm Gia Tĩnh triều Minh,
 
-10. Bốn phương phẳng lặng, hai kinh vững vàng.
+_10_. Bốn phương phẳng lặng, hai kinh vững vàng.
 
 Có nhà viên ngoại họ Vương,
 
@@ -71,42 +71,77 @@ Một trai con thứ rốt lòng,
 
 Vương Quan là chữ, nối dòng nho gia.
 
-15. Đầu lòng hai ả tố nga,
+_15_. Đầu lòng hai ả tố nga,
+
 Thúy Kiều là chị, em là Thúy Vân.
+
 Mai cốt cách, tuyết tinh thần,
+
 Một người một vẻ, mười phân vẹn mười.
+
 Vân xem trang trọng khác vời,
-20. Khuôn trăng đầy đặn, nét ngài nở nang.
+
+_20_. Khuôn trăng đầy đặn, nét ngài nở nang.
+
 Hoa cười ngọc thốt đoan trang,
+
 Mây thua nước tóc, tuyết nhường màu da.
+
 Kiều càng sắc sảo, mặn mà,
+
 So bề tài, sắc, lại là phần hơn.
-25. Làn thu thủy, nét xuân sơn,
+
+_25_. Làn thu thủy, nét xuân sơn,
+
 Hoa ghen thua thắm, liễu hờn kém xanh.
+
 Một, hai nghiêng nước nghiêng thành,
+
 Sắc đành đòi một, tài đành họa hai.
+
 Thông minh vốn sẵn tư trời,
-30. Pha nghề thi họa, đủ mùi ca ngâm.
+
+_30_. Pha nghề thi họa, đủ mùi ca ngâm.
+
 Cung thương làu bậc ngũ âm,
+
 Nghề riêng ăn đứt Hồ cầm một trương.
+
 Khúc nhà tay lựa nên chương,
+
 Một thiên bạc mệnh, lại càng não nhân.
-35. Phong lưu rất mực hồng quần,
+
+_35_. Phong lưu rất mực hồng quần,
+
 Xuân xanh sấp xỉ tới tuần cập kê
+
 Êm đềm trướng rủ màn che,
+
 Tường đông ong bướm đi về mặc ai.
+
 Ngày xuân con én đưa thoi,
-40. Thiều quang chín chục đã ngoài sáu mươi.
+
+_40_. Thiều quang chín chục đã ngoài sáu mươi.
+
 Cỏ non xanh tận chân trời,
+
 Cành lê trắng điểm một vài bông hoa.
+
 Thanh minh trong tiết tháng ba,
+
 Lễ là tảo mộ, hội là đạp Thanh.
-45. Gần xa nô nức yến anh,
+
+_45_. Gần xa nô nức yến anh,
+
 Chị em sắm sửa bộ hành chơi xuân.
+
 Dập dìu tài tử, giai nhân,
+
 Ngựa xe như nước áo quần như nêm.
+
 Ngổn ngang gò đống kéo lên,
-50. Thoi vàng vó rắc tro tiền giấy bay.
+
+_50_. Thoi vàng vó rắc tro tiền giấy bay.
 Tà tà bóng ngả về tây,
 Chị em thơ thẩn dan tay ra về.
 Bước dần theo ngọn tiểu khê,
