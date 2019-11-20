@@ -26,7 +26,9 @@ comments: true
 <i>Ngậm ngùi rủ bước rèm châu,<br>
 Cách tường, nghe có tiếng đâu họa vần.<br>
 Một chàng vừa trạc thanh xuân,<br>
-</i></b><i>. <b>1060</b><i>. Hình dong chải chuốt, áo khăn
+</i>
+<br>
+<b>1060</b><i>. Hình dong chải chuốt, áo khăn
 dịu dàng.<br>
 Nghĩ rằng cũng mạch thư hương,<br>
 Hỏi ra mới biết rằng chàng Sở Khanh.<br>
@@ -439,7 +441,7 @@ Giấc hương quan: Giấc mộng về quê hương.
 1268. Hoàng hôn: Về chiều tối, khi mặt trời sắp lặn, có ánh vàng vàng, gọi là hoàng hôn.
 1269. Thỏ bạc, ác vàng: Như nói "thỏ lặn, ác tà" tức ngày và đêm lần lượt qua đi.
 ```
-
+<br>
 <div style="text-align: right"> 
 	<a href="/page/truyenkieu/kieu-gap-thuc-sinh">[Tiếp: Kiều gặp Thúc Sinh]</a>
 </div>
