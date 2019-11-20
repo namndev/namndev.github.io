@@ -7,7 +7,7 @@ comments: true
 ## Table of Content
 
 + [Đôi lời về Nguyễn Du](#nguyen-du)
-+ [Kiều thăm mộ Đạm Tiên](./kieu-tham-mo-dam-tien.md) _(1-244)_
++ [Kiều thăm mộ Đạm Tiên](./_kieu-tham-mo-dam-tien.md) _(1-244)_
 + [Kiều gặp Kim Trọng](#) _(245-572)_
 + [Kiều bán mình chuộc cha](#) _(573-804)_
 + [Kiều rơi vào tay Tú bà & Mã Giám Sinh](#) _(805-1056)_
