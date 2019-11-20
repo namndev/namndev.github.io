@@ -1,14 +1,16 @@
 ---
-layout: post
 title: Truyện Kiều - Nguyễn Du
+layout: post
 comments: true
+social-share: true
+show-avatar: true
 ---
 
 ## Table of Content
 
 + [Đôi lời về Nguyễn Du](#nguyen-du)
 + [Kiều thăm mộ Đạm Tiên](/page/truyenkieu/kieu-tham-mo-dam-tien/) _(1-244)_
-+ [Kiều gặp Kim Trọng](#) _(245-572)_
++ [Kiều gặp Kim Trọng](/page/truyenkieu/kieu-gap-kim-trong/) _(245-572)_
 + [Kiều bán mình chuộc cha](#) _(573-804)_
 + [Kiều rơi vào tay Tú bà & Mã Giám Sinh](#) _(805-1056)_
 + [Kiều mắc lừa Sở Khanh](#) _(1057-1274)_
@@ -40,4 +42,6 @@ Truyện Kiều đóng một vai trò quan trọng trong sinh hoạt văn hoá V
 
 Năm 1965, Nguyễn Du chính thức được nhà nước làm lễ kỷ niệm, Hội đồng hoà bình thế giới ghi tên ông trong danh sách những nhà văn hoá thế giới. Nhà lưu niệm Nguyễn Du được xây dựng ở làng quê ông xã Tiên Điền. Trường viết văn để đào tạo những cây bút mới mang tên ông.
 
-[Đọc tiếp](/page/truyenkieu/kieu-tham-mo-dam-tien/)
+<div style="text-align: right"> 
+	<a href="/page/truyenkieu/kieu-tham-mo-dam-tien">[Đọc tiếp]</a>
+</div>

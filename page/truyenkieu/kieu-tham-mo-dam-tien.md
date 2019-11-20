@@ -745,3 +745,7 @@ Tây thiên: Phía trời đàng tây, hoặc cánh đồng phía tây.
 
 244. Tơ mành: Sợi tơ mong manh. Hai chữ này chỉ chung Kiều và Kim Trọng để kết thúc đoạn nói về Kim Trọng.
 ```
+
+<div style="text-align: right"> 
+	<a href="/page/truyenkieu/kieu-gap-kim-trong">[Đọc tiếp]</a>
+</div>
