@@ -6,7 +6,7 @@ comments: true
 ---
 
 <h1 align="center">
-    <img alt="" title="Lumen" src="./img/kieu.gif" width="160" />
+    <img alt="" title="Kieu" src="./img/kieu.gif" width="160" />
    </br>
     Truyện Kiều
 </h1>
@@ -43,21 +43,34 @@ Năm 1965, Nguyễn Du chính thức được nhà nước làm lễ kỷ niệm
 <a name="kieu-tham-mo-dam-tien"></a>
 ## Kiều thăm mộ Đạm Tiên
 
-```
 1.Trăm năm trong cõi người ta,
+
 Chữ tài chữ mệnh khéo là ghét nhau.
+
 Trải qua một cuộc bể dâu,
+
 Những điều trông thấy mà đau đớn lòng.
+
 5. Lạ gì bỉ sắc tư phong,
+
 Trời xanh quen thói má hồng đánh ghen.
+
 Cảo thơm lần giở trước đèn,
+
 Phong tình có lục còn truyền sử xanh.
+
 Rằng năm Gia Tĩnh triều Minh,
+
 10. Bốn phương phẳng lặng, hai kinh vững vàng.
+
 Có nhà viên ngoại họ Vương,
+
 Gia tư nghĩ cũng thường thường bực trung.
+
 Một trai con thứ rốt lòng,
+
 Vương Quan là chữ, nối dòng nho gia.
+
 15. Đầu lòng hai ả tố nga,
 Thúy Kiều là chị, em là Thúy Vân.
 Mai cốt cách, tuyết tinh thần,
@@ -242,54 +255,62 @@ Dưới dòng nước chảy bên trên có cầu.
 Mấy lòng hạ cố đến nhau,
 Mấy lời hạ tứ ném châu gieo vàng.
 Vâng trình hội chủ xem tường,
+
 200. Mà sao trong sổ đoạn trường có tên.
 Âu đành quả kiếp nhân duyên,
 Cùng người một hội, một thuyền đâu xa!
 Này mười bài mới mới ra,
 Câu thần lại mượn bút hoa vẽ vời.
+
 205. Kiều vâng lĩnh ý đề bài,
 Tay tiên một vẫy đủ mười khúc ngâm.
 Xem thơ nức nở khen thầm:
 Giá đành tú khẩu cẩm tâm khác thường
 Ví đem vào tập đoạn Trường
+
 210. Thì treo giải nhất chi nhường cho ai.
 Thềm hoa khách đã trở hài,
 Nàng còn cầm lại một hai tự tình.
 Gió đâu xịch bức mành mành,
 Tỉnh ra mới biết rằng mình chiêm bao.
+
 215. Trông theo nào thấy đâu nào
 Hương thừa dường hãy ra vào đâu đây.
 Một mình lưỡng lự canh chầy,
 Đường xa nghĩ nỗi sau này mà kinh.
 Hoa trôi bèo dạt đã đành,
+
 220. Biết duyên mình, biết phận mình thế thôi !
 Nỗi riêng lớp lớp sóng dồi,
 Nghĩ đòi cơn lại sụt sùi đòi cơn.
 Giọng Kiều rền rĩ trướng loan,
 Nhà Huyên chợt tỉnh hỏi: Cơn cớ gì ?
+
 225. Cớ sao trằn trọc canh khuya,
 Màu hoa lê hãy dầm dề giọt mưa ?
 Thưa rằng: Chút phận ngây thơ,
 Dưỡng sinh đôi nợ tóc tơ chưa đền.
 Buổi ngày chơi mả đạm Tiên,
-230.. Nhắp đi thoắt thấy ứng liền chiêm bao.
+
+230. Nhắp đi thoắt thấy ứng liền chiêm bao.
 đoạn trường là số thế nào,
 Bài ra thế ấy, vịnh vào thế kia.
 Cứ trong mộng triệu mà suy,
 Phận con thôi có ra gì mai sau !
+
 235. Dạy rằng: Mộng triệu cớ đâu,
 Bỗng không mua não chuốc sầu nghĩ nao.
 Vâng lời khuyên giải thấp cao,
 Chưa xong điều nghĩ đã dào mạch Tương.
 Ngoài song thỏ thẻ oanh vàng,
+
 240. Nách tường bông liễu bay ngang trước mành.
 Hiên tà gác bóng chênh chênh,
 Nỗi riêng, riêng trạnh tấc riêng một mình.
 Cho hay là thói hữu tình,
 Đố ai gỡ mối tơ mành cho xong.
-```
 
-_Chú giải:_
+> _Chú giải:_
 
 ```
 2. Người có tài thì thường gặp mệnh bạc, hình như Tài, mệnh ghét nhau, xung khắc với nhau, hễ được hơn cái này thì phải kém cái kia.
