@@ -99,21 +99,38 @@ Ngựa xe như nước áo quần như nêm.
 Ngổn ngang gò đống kéo lên,
 
 _50_. Thoi vàng vó rắc tro tiền giấy bay.
+
 Tà tà bóng ngả về tây,
+
+
 Chị em thơ thẩn dan tay ra về.
+
 Bước dần theo ngọn tiểu khê,
+
 Lần xem phong cảnh có bề thanh thanh.
-55. Nao nao dòng nước uốn quanh,
+
+_55_. Nao nao dòng nước uốn quanh,
+
 Dịp cầu nho nhỏ cuối ghềnh bắc ngang.
+
 Sè sè nấm đất bên đàng, 
+
 Dàu dàu ngọn cỏ nửa vàng nửa xanh.
+
+
 Rằng: Sao trong tiết thanh minh,
-60. Mà đây hương khói vắng tanh thế mà?
+
+_60_. Mà đây hương khói vắng tanh thế mà?
+
 Vương Quan mới dẫn gần xa:
+
 Đạm Tiên nàng ấy xưa là ca nhi.
+
 Nổi danh tài sắc một thì,
+
 Xôn xao ngoài cửa hiếm gì yến anh.
-65. Kiếp hồng nhan có mong manh,
+
+_65_. Kiếp hồng nhan có mong manh,
 Nửa chừng xuân thoắt gãy cành thiên hương.
 Có người khách ở viễn phương,
 Xa nghe cũng nức tiếng nàng tìm chơi.

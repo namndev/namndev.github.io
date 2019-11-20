@@ -23,9 +23,9 @@ comments: true
 
 <p align="center">
     <img src="/img/kieu.gif"/>
-    <p>
+</p>
+<p align="center">
     <b>Truyện Kiều</b>
-    </p>
 </p>
 
 <a name="nguyen-du"></a>
