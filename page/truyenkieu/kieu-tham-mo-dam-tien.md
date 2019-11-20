@@ -7,7 +7,7 @@ comments: true
 
 ### Các phần khác
 
-+ [Đôi lời về Nguyễn Du](#nguyen-du)
++ [Đôi lời về Nguyễn Du](/2019-11-20-truyen-kieu)
 + Kiều thăm mộ Đạm Tiên _(1-244)_
 + [Kiều gặp Kim Trọng](/page/truyenkieu/kieu-gap-kim-trong/) _(245-572)_
 + [Kiều bán mình chuộc cha](/page/truyenkieu/kieu-ban-minh-chuoc-cha/) _(573-804)_

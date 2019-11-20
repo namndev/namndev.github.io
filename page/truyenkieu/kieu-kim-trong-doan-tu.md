@@ -6,7 +6,7 @@ comments: true
 
 ### Các phần khác
 
-+ [Đôi lời về Nguyễn Du](#nguyen-du)
++ [Đôi lời về Nguyễn Du](/2019-11-20-truyen-kieu)
 + [Kiều thăm mộ Đạm Tiên](/page/truyenkieu/kieu-tham-mo-dam-tien/) _(1-244)_
 + [Kiều gặp Kim Trọng](/page/truyenkieu/kieu-gap-kim-trong/) _(245-572)_
 + [Kiều bán mình chuộc cha](/page/truyenkieu/kieu-ban-minh-chuoc-cha/) _(573-804)_
@@ -506,6 +506,8 @@ Trang sinh: Tức Trang Chu, hay Trang Tử. đời Chiến Quốc. Xưa Trang C
 Quế hoè: Xưa họ Đậu, đời Tống, có năm người con trai đều hiển đạt, Vương Đạo có câu thơ khen: Đan quế ngũ chi phương (Quế đỏ năm cành thơm). Xem thêm điển Vương Hữu. Câu này dẫn mấy điển ấy để nói Kim Trọng có đông con cháu hiển đạt sau này.
 ```
 <br>
+<center><b>END</b></center>
+<br>
 <div style="text-align: right"> 
-	<a href="/2019-11-20-truyen-kieu">[Trang đầu]</a>
+	<a href="/2019-11-20-truyen-kieu">[Quay về]</a>
 </div>
