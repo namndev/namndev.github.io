@@ -3,7 +3,7 @@ title: Truyện Kiều - Nguyễn Du
 layout: post
 comments: true
 social-share: true
-show-avatar: true
+tags: [Literature]
 ---
 
 Theo Đại Nam chính biên liệt truyện, truyện được viết ra sau khi ông đi sứ nhà Thanh về và theo lời truyền thì Phạm Quý Thích đã cho khắc in vào khoảng từ năm 1820 đến năm 1825, thường được gọi là "bản Kinh". Bản khắc in đó nay không còn nữa nhưng còn lưu lại những phiên bản di dịch ít nhiều. Ngoài "bản Kinh" do Phạm Quý Thích cho khắc in, một số dị bản nữa được in sau đó ở Hà Nội do các nhà in phát hành, thường gọi là "bản Phường".
