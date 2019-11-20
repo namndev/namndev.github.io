@@ -747,5 +747,5 @@ Tây thiên: Phía trời đàng tây, hoặc cánh đồng phía tây.
 ```
 
 <div style="text-align: right"> 
-	<a href="/page/truyenkieu/kieu-gap-kim-trong">[Đọc tiếp]</a>
+	<a href="/page/truyenkieu/kieu-gap-kim-trong">[Tiếp: Kiều gặp Kim Trọng]</a>
 </div>
