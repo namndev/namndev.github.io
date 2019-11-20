@@ -1,21 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nam's Gists</title>
-    <description>A virtual proof that I'm awesome</description>
+    <title>Nam Nguyen Developer</title>
+    <description>This is where I will tell my friends what I do</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>First post!</title>
+        <title>Truyện Kiều - Nguyễn Du</title>
         <description>
           
-          This is my first post, how exciting!
-
+          Table of Content Đôi lời về Nguyễn Du Kiều thăm mộ Đạm Tiên (1-244) Kiều gặp Kim Trọng (245-572) Kiều bán mình chuộc cha (573-804) Kiều rơi vào tay Tú bà &amp;amp; Mã Giám Sinh (805-1056) Kiều mắc lừa Sở Khanh (1057-1274) Kiều gặp Thúc Sinh (1275-1472) Kiều và Hoạn...
         </description>
-        <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/2019-10-29-first-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019-10-29-first-post/</guid>
+        <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2019-11-20-truyen-kieu/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-11-20-truyen-kieu/</guid>
+      </item>
+    
+      <item>
+        <title>Live Video Transmuxing/Transcoding: FFmpeg vs TwitchTranscoder</title>
+        <description>
+          
+          Background Twitch is the world’s leading live streaming platform for video games, esports, and other emerging creative content. Every month, more than 2.2 million unique content creators stream or upload video on our website. At its peak, Twitch ingests tens of thousands of concurrent live video streams and delivers them...
+        </description>
+        <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2019-11-12-twitch-transcoder/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-11-12-twitch-transcoder/</guid>
+      </item>
+    
+      <item>
+        <title>Setting up Flutter on macOS Catalina</title>
+        <description>
+          
+          Flutter has good installation documentation, but to install it on macOS Catalina you need to fly above some further obstacles. I’m writing some instructions here for reference and to help out any other potential lost programming souls. Install the Flutter SDK Download the latest stable release from here. Unzip and...
+        </description>
+        <pubDate>Sat, 02 Nov 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2019-11-02-setting_up_flutter_on_catalina/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-11-02-setting_up_flutter_on_catalina/</guid>
+      </item>
+    
+      <item>
+        <title>Creating A Production Ready Multi Bitrate HLS VOD stream</title>
+        <description>
+          
+          HLS is one of the most prominent video streaming formats on desktop and mobile browsers. Since end users have different screen sizes and different network performance, we want to create multiple renditions of the video with different resolutions and bitrates that can be switched seamlessly, this concept is called MBR...
+        </description>
+        <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2019-11-01-ready_multibitrate_hls/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-11-01-ready_multibitrate_hls/</guid>
+      </item>
+    
+      <item>
+        <title>A Basic MySQL Tutorial</title>
+        <description>
+          
+          MySQL is an open source database management software that helps users store, organize, and retrieve data. It is a very powerful program with a lot of flexibility—this tutorial will provide the simplest introduction to MySQL Getting started www.sqlteaching.com www.codecademy.com/learn/learn-sql Related tutorials MySQL-CLI Analyzing Business Metrics SQL joins infografic Tools TablePlus...
+        </description>
+        <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2019-10-21-mysql-basic/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-10-21-mysql-basic/</guid>
+      </item>
+    
+      <item>
+        <title>Installing the AWS CLI - AWS Command Line Interface</title>
+        <description>
+          
+          I. Install AWS-CLI in Centos7 There are a number of ways to install the AWS command line tools. Below is the method I favour on CentOS: $curl &quot;https://s3.amazonaws.com/aws-cli/awscli-bundle.zip&quot; -o &quot;awscli-bundle.zip&quot; $unzip awscli-bundle.zip $cd awscli-bundle/ $sudo ./install -i /usr/local/aws -b /usr/local/bin/aws Check that was successful with: $aws --version aws-cli/1.16.256 Python/2.7.5 Linux/3.10.0-957.12.2.el7.x86_64...
+        </description>
+        <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2019-10-20-install-aws-cli/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-10-20-install-aws-cli/</guid>
+      </item>
+    
+      <item>
+        <title>Docker tricks!</title>
+        <description>
+          
+          Since its introduction in 2013, Docker quickly became the world’s most popular container management system. From fancy start-ups to a more traditional use cases in large banks and insurance companies. From development, testing, staging to production environments. In this article I just want to share tips and tricks learned using...
+        </description>
+        <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2019-10-19-docker-tricks/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-10-19-docker-tricks/</guid>
+      </item>
+    
+      <item>
+        <title>Awesome Gists</title>
+        <description>
+          
+          A collection of awesome gists. Feel free to contribute. Awesome Android Complete Reference Awesome Resty Reference iOS TOC Databases MySQL Redis MongoDB DynamoDB Services Heroku Amazon Tsuru CloudFlare Terminal Tmux Zsh Testing YAML JSON Python Languages Environment OSX iOS Objective-C Swift Android Databases All databases are welcome :) MySQL My...
+        </description>
+        <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2019-10-18-awesome-gists/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-10-18-awesome-gists/</guid>
+      </item>
+    
+      <item>
+        <title>How to Install MongoDB on Ubuntu 14.04 LTS</title>
+        <description>
+          
+          MongoDB is a NoSQL database intended for storing large amounts of data in document-oriented storage with dynamic schemas. NoSQL refers to a database with a data model other than the tabular format used in relational databases such as MySQL, PostgreSQL, and Microsoft SQL. MongoDB’s features include: Full index support Replication...
+        </description>
+        <pubDate>Fri, 26 Feb 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2016-02-26-mongodb-on-ubuntu/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-02-26-mongodb-on-ubuntu/</guid>
+      </item>
+    
+      <item>
+        <title>Setting Up MUNIN on Ubuntu Server 14.04 with NGINX</title>
+        <description>
+          
+          This post explains how to configure munin on a single Ubuntu 14.04 server that uses nginx. sudo apt-get update sudo apt-get install nginx Monitoring is supposed to save time by debugging and predicting / avoiding catastrophes. However, setting up munin on Ubuntu was a time-consuming trial-and-error process for me. The...
+        </description>
+        <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2016-02-25-setup-munin-on-ubuntuserver/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016-02-25-setup-munin-on-ubuntuserver/</guid>
+      </item>
+    
+      <item>
+        <title>QDict - 1000 dictionaries</title>
+        <description>
+          
+          This is an open source Android dictionary application which support stardict format dictionaries. Information The only dictionary you need for all purpose. There is no word you can’t find You can use QDict as a dictionary tool, it support all the stardict format dictionaries. QDict support 3 type ways to...
+        </description>
+        <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2015-05-13-qdict/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015-05-13-qdict/</guid>
       </item>
     
   </channel>

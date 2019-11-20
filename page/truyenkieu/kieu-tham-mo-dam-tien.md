@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Truyện Kiều - Nguyễn Du
+title: Kiều thăm mộ Đạm Tiên
 comments: true
 ---
-
-## Kiều thăm mộ Đạm Tiên
 
 _1_.Trăm năm trong cõi người ta,
 
@@ -137,11 +135,16 @@ Nổi danh tài sắc một thì,
 Xôn xao ngoài cửa hiếm gì yến anh.
 
 _65_. Kiếp hồng nhan có mong manh,
+
 Nửa chừng xuân thoắt gãy cành thiên hương.
+
 Có người khách ở viễn phương,
+
 Xa nghe cũng nức tiếng nàng tìm chơi.
+
 Thuyền tình vừa ghé tới nơi,
-70. Thì đà trâm gẫy bình rơi bao giờ.
+
+_70_. Thì đà trâm gẫy bình rơi bao giờ.
 Buồng không lạnh ngắt như tờ,
 Dấu xe ngựa đã rêu lờ mờ xanh.
 Khóc than khôn xiết sự tình,
@@ -325,7 +328,8 @@ Nỗi riêng, riêng trạnh tấc riêng một mình.
 Cho hay là thói hữu tình,
 Đố ai gỡ mối tơ mành cho xong.
 
-> _Chú giải:_
+
+### Chú giải
 
 ```
 2. Người có tài thì thường gặp mệnh bạc, hình như Tài, mệnh ghét nhau, xung khắc với nhau, hễ được hơn cái này thì phải kém cái kia.
