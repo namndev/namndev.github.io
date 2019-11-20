@@ -1,7 +1,7 @@
 ---
 title: Kiều thăm mộ Đạm Tiên
 layout: page
-image: /img/kieu.gif
+# image: /img/kieu.gif
 comments: true
 ---
 
