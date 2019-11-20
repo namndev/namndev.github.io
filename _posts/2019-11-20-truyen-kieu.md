@@ -1,14 +1,8 @@
 ---
 layout: post
 title: Truyện Kiều - Nguyễn Du
-image: /img/kieu.gif
 comments: true
 ---
-
-<p align="center">
-    <img src="/img/kieu.gif"/>
-    <b>Truyện Kiều</b>
-</p>
 
 ## Table of Content
 
@@ -26,6 +20,13 @@ comments: true
 + [Từ Hải mắc lừa Hồ Tôn Hiến, Kiều tự vẫn](#) _(2419-2738)_
 + [Kim Trọng đi tìm Kiều](#) _(2739-2972)_
 + [Kiều - Kim Trọng đoàn tụ](#) _(2973-3254)_
+
+<p align="center">
+    <img src="/img/kieu.gif"/>
+    <p>
+    <b>Truyện Kiều</b>
+    </p>
+</p>
 
 <a name="nguyen-du"></a>
 ## Nguyễn Du
