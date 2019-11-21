@@ -12,8 +12,8 @@ You could find for example:
 - [sky](https://github.com/kootenpv/sky): next generation web crawling using machine intelligence
 - [gittyleaks](https://github.com/kootenpv/gittyleaks): find sensitive information for a git repo
 - [xtoy](https://github.com/kootenpv/xtoy): Go from 'X' to 'y' without effort.
-- [loco](https://github.com/kootenpv/loco): Share localhost HTTP securely with another machine using SSH
-- [ppm](https://github.com/kootenpv/ppm): Personal static password manager. Use it [live](/ppm).
+- [AMDF](https://github.com/namndev/AMDF): Voice processing: Detect F0 using AMDF
+- [QDict](https://github.com/namndev/QDict): This is an open source Android dictionary application which support 'stardict' format dictionaries. Use it [live](/2015-05-13-qdict).
 
 Presentations:
 
