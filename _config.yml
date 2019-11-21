@@ -21,7 +21,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  Learning: "learning"
+  Gitbook: "https://namndev.gitbook.io"
   # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
