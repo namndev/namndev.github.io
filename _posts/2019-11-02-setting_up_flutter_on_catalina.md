@@ -1,15 +1,12 @@
 ---
 layout: post
 title: Setting up Flutter on macOS Catalina
+image: https://miro.medium.com/max/10000/1*A1TtHIM4tL0ejuQOjVSZUw.png
 tags: [Flutter, Mobile]
 comments: true
 ---
 
 Flutter has good [installation documentation](https://flutter.dev/docs/get-started/install), but to install it on macOS Catalina you need to fly above some further obstacles. I’m writing some instructions here for reference and to help out any other potential lost programming souls.
-
-<p align="center">
-    <img src="https://miro.medium.com/max/10000/1*A1TtHIM4tL0ejuQOjVSZUw.png" />
-</p>
 
 ## Install the Flutter SDK
 
