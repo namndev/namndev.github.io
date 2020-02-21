@@ -99,7 +99,7 @@ Next, cd into that folder and run firebase init and you should see something lik
     <img src="https://atevans85.files.wordpress.com/2019/07/screen-shot-2019-07-22-at-7.45.06-am.png" />
 </p>
 
-Select “Functions” in the options menu. Then select the Firebase App that you created before in the list shown on the next terminal output.
+Select `Functions` in the options menu. Then select the Firebase App that you created before in the list shown on the next terminal output.
 
 The next set of options are fairly straightforward.
 
@@ -121,7 +121,7 @@ Go ahead in your terminal editor of choice (highly recommend [VSCode](https://co
 
 `Firebase Functions` enables you to use the ExpressJS library to host a __Serverless API__. __Serverless__ is just a term for a system that runs without physical servers. This is a bit of a misnomer because it technically does run on a server, however, you’re letting the provider handle the hosting aspect. Traditional APIs would require you to setup a server either in the cloud or on prem that can host your application. This means that developers would have to be in charge of OS patches and alerts, etc. In the world of Serverless, you don’t __have to worry about anything but your code__. This is one of the coolest parts of Firebase!
 
-So in order to use ExpressJS with your project, erase the index.js file and paste the following lines there:
+So in order to use `ExpressJS` with your project, erase the `index.js` file and paste the following lines there:
 
 ```js
 const functions = require('firebase-functions');
@@ -166,7 +166,7 @@ With packages installed and initial code setup, we can go ahead and run our proj
 
 Now if you notice, I did get a warning about my node version. Ignore that for now, I will come back to that when we start actually accessing the database.
 
-Also notice that the terminal output the localhost address of your API that is running locally. You’re going to call that directly from Postman as this is the `address` of your API. When running on `localhost`, the URLs for your app will look like the following:
+Also notice that the terminal output the localhost address of your API that is running locally. You’re going to call that directly from __Postman__ as this is the `address` of your API. When running on `localhost`, the URLs for your app will look like the following:
 
 ```bash
 [<------domain---->]  / [<-app id---> / [<-zone-->] / app / [<-endpoint->]
@@ -191,7 +191,7 @@ Once there, the project id (and some other settings) will be listed. Here I’ve
     <img src="https://atevans85.files.wordpress.com/2019/07/screen-shot-2019-07-24-at-7.10.46-am.png" />
 </p>
 
-Open up the postman collection and edit the `hello-world localhost` request under the `localhost` folder.
+Open up the `postman collection` and edit the `hello-world localhost` request under the `localhost` folder.
 
 <p align="center">
     <img src="https://atevans85.files.wordpress.com/2019/07/screen-shot-2019-07-24-at-7.12.41-am.png" />
@@ -215,7 +215,7 @@ In Firebase, you have two options for database use. You can use a traditional da
 
 In the setup section, we added a `cloud firestore` instance to our project. We’re now going to access this. In order to interact with the `cloud firestore` using the [admin SDK](https://firebase.google.com/docs/admin/setup) locally, you’ll need to access it via a service account. Service accounts have keys that they use, you run these permissions by downloading a key file. To do this do the following:
 
-Go to the Firebase Console, and open your application. Then click the little gear box and `users and permissions` as you see here:
+Go to the __Firebase Console__, and open your application. Then click the little gear box and `users and permissions` as you see here:
 
 <p align="center">
     <img src="https://atevans85.files.wordpress.com/2019/07/screen-shot-2019-07-22-at-8.12.40-am.png" />
@@ -258,7 +258,7 @@ app.post('/api/create', (req, res) => {
   });
 ```
 
-This code is creating an endpoint `/api/create-item` that you make a `POST` call to. When the POST call is made, it adds the `item` from the body to a collection in the database called `items` with an id of the value you passed in called “id” here. Collections in a NoSQL database are just a `collector` of `documents`. You could just as easily do this with a specific document. I tend to like collections when using firestore because they are easy to understand. You can also think of collections similarly to `tables` in a SQL Database.
+This code is creating an endpoint `/api/create-item` that you make a `POST` call to. When the POST call is made, it adds the `item` from the body to a collection in the database called `items` with an id of the value you passed in called  `id` here. Collections in a NoSQL database are just a `collector` of `documents`. You could just as easily do this with a specific document. I tend to like collections when using firestore because they are easy to understand. You can also think of collections similarly to `tables` in a SQL Database.
 
 >If you also notice, I’ve prefixed the endpoint with `/api` here. This is not required, but is typically convent with any API you create.
 
