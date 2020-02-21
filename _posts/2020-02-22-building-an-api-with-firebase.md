@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Building an API with Firebase"
-image: /img/rtmps/no-rtmp.jpg
 tags: [Firebase, API, Js]
 comments: true
 ---
