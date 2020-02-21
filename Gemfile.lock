@@ -222,7 +222,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.1.1)
-    rack (1.6.11)
+    rack (1.6.12)
     rack-protection (1.5.5)
       rack
     rack-test (1.1.0)
@@ -275,6 +275,7 @@ DEPENDENCIES
   jekyll-github-metadata
   jekyll-paginate
   jemoji
+  rack (>= 1.6.12)
 
 BUNDLED WITH
    1.17.2

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Separating SD, HD, Full HD, 4K and 8K "
+title: "Separating SD, HD, Full HD, 4K and 8K"
 tags: [Video]
 comments: true
 ---
