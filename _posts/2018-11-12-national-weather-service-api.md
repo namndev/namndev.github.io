@@ -1,6 +1,7 @@
 ---
 layout: post
 title: National Weather Service API
+image: /img/api.png
 tags: [API]
 comments: true
 ---
