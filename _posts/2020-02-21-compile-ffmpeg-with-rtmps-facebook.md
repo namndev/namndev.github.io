@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Compile FFmpeg with RTMPS for Facebook"
-image: /img/rtmps/no-rtmp.jpg
+image: https://clipartart.com/images/facebook-live-logo-clipart.jpg
 tags: [Video, Live, Facebook, Codec, HLS]
 comments: true
 ---
