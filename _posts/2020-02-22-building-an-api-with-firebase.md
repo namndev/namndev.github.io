@@ -556,7 +556,7 @@ Since the main point of this post was about creating the API, I won’t go into 
 This image has an empty alt attribute; its file name is duplo-1981724_1920.jpg
 Congratulations! You’ve just deployed an API with Firebase. There are a lot of additional things that you an do with this API, but this shows you the basics. The client application that I showcased gets you started with ways to consume your API. I highly recommend reviewing the ExpressJS site tutorials for more in-depth ways to route calls and use middleware. I also highly recommend checking out my additional blog posts on Firebase:
 
-* [Firebase](https://rhythmandbinary.com/2018/04/08/firebase/)
+* [Firebase](/2020-02-03-firebase)
 * [Why Firebase Cloud Functions are Awesome](https://blog.angularindepth.com/why-firebase-cloud-functions-are-awesome-f4faeab630f7)
 * [How the AngularFire Library makes Firebase feel like Magic](https://blog.angularindepth.com/how-the-angular-fire-library-makes-firebase-feel-like-magic-1fda375966bb)
 * [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
