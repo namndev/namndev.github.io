@@ -174,14 +174,14 @@ Also notice that the terminal output the localhost address of your API that is r
 http://localhost:5000 / fir-api-9a206 / us-central1 / app / create
 ```
 
-When we go to deploy, the only difference in the URL will be that http://localhost:500 will be replaced with zone + app id + “cloudfunctions.net” similar to the following:
+When we go to deploy, the only difference in the URL will be that http://localhost:500 will be replaced with zone + app id + `cloudfunctions.net` similar to the following:
 
 ```bash
 [<------zone + app id + cloudfunctions.net-------->] / app / [<--endpoint-->]
 https://us-central1-fir-api-9a206.cloudfunctions.net / app /   hello-world
 ```
 
-You’ll need to update the Postman collection I mentioned in the intro with your app id values. In order to see your app id, go to the Firebase Console and click “project settings” like you see in the following screenshot:
+You’ll need to update the Postman collection I mentioned in the intro with your app id values. In order to see your app id, go to the Firebase Console and click `project settings` like you see in the following screenshot:
 
 <p align="center">
     <img src="https://atevans85.files.wordpress.com/2019/07/screen-shot-2019-07-24-at-7.10.02-am.png" />
@@ -415,7 +415,7 @@ If you remember from the first sections, we’re using the code that I have put 
     <img src="https://atevans85.files.wordpress.com/2019/07/screen-shot-2019-07-24-at-3.44.01-pm.png" />
 </p>
 
-While you are running the application, you can also see it in action in the browser’s console. If you open the console (right click “inspect” if you’re using Chrome) then you should see the following:
+While you are running the application, you can also see it in action in the browser’s console. If you open the console (right click `inspect` if you’re using Chrome) then you should see the following:
 
 <p align="center">
     <img src="https://atevans85.files.wordpress.com/2019/07/screen-shot-2019-07-24-at-3.50.40-pm.png" />
@@ -558,8 +558,8 @@ This image has an empty alt attribute; its file name is duplo-1981724_1920.jpg
 Congratulations! You’ve just deployed an API with Firebase. There are a lot of additional things that you an do with this API, but this shows you the basics. The client application that I showcased gets you started with ways to consume your API. I highly recommend reviewing the ExpressJS site tutorials for more in-depth ways to route calls and use middleware. I also highly recommend checking out my additional blog posts on Firebase:
 
 * [Firebase](/2020-02-03-firebase)
-* [Why Firebase Cloud Functions are Awesome](https://blog.angularindepth.com/why-firebase-cloud-functions-are-awesome-f4faeab630f7)
-* [How the AngularFire Library makes Firebase feel like Magic](https://blog.angularindepth.com/how-the-angular-fire-library-makes-firebase-feel-like-magic-1fda375966bb)
-* [Why Building with a JAMstack is Awesome](https://blog.angularindepth.com/why-building-with-a-jamstack-is-awesome-49618fd21198)
+* [Why Firebase Cloud Functions are Awesome](https://medium.com/angular-in-depth/why-firebase-cloud-functions-are-awesome-f4faeab630f7)
+* [How the AngularFire Library makes Firebase feel like Magic](https://medium.com/angular-in-depth/how-the-angular-fire-library-makes-firebase-feel-like-magic-1fda375966bb)
+* [Why Building with a JAMstack is Awesome](https://medium.com/angular-in-depth/why-building-with-a-jamstack-is-awesome-49618fd21198)
 
 I hope my post here has helped you to get started with building APIs with Firebase. Feel free to leave comments and thanks for reading!
