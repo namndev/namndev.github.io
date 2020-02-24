@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building an application with Angular, Jest, Firebase"
-image: https://clipartart.com/images/facebook-live-logo-clipart.jpg
+image: https://www.nuget.org/profiles/firebase/avatar?imageSize=512
 tags: [Angular, Jest, Firebase]
 comments: true
 ---
