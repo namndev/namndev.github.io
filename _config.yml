@@ -165,7 +165,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 8
-
+remote_theme: "dracula/gh-pages"
 kramdown:
   input: GFM
   syntax_highlighter: rouge
