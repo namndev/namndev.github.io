@@ -8,3 +8,4 @@ gem 'jekyll-paginate'
 gem 'jemoji'
 gem "jekyll-github-metadata"
 gem 'jekyll-admin', group: :jekyll_plugins
+gem "nokogiri", ">= 1.10.8"
