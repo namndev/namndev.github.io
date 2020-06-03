@@ -283,6 +283,33 @@ docker run -d --name  post-process-worker \
 -v /data/pureftp/ftpusers:/home/ftpusers transcode/worker-gpu:latest post_process_worker
 ```
 
+## 12 Stop and remove all docker containers and images
+Sometimes it's useful to start with a clean slate and remove all Docker containers and even images. Here are some handy shortcuts.
+
+List all containers (only IDs)
+
+```bash
+docker ps -aq
+```
+
+Stop all running containers
+
+```bash
+docker stop $(docker ps -aq)
+```
+
+Remove all containers
+
+```bash
+docker rm $(docker ps -aq)
+```
+
+Remove all images
+
+```bash
+docker rmi $(docker images -q)
+```
+
 ### Docker swarm:
 - [Traefik Library Image](https://github.com/containous/traefik-library-image)
 - [Docker stack deploy](https://docs.docker.com/engine/reference/commandline/stack_deploy/)
