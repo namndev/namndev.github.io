@@ -20,7 +20,7 @@ $ brew link --force openssl
 Warning: Refusing to link: openssl
 Linking keg-only openssl means you may end up linking against the insecure, deprecated system OpenSSL while using the headers from Homebrew's openssl.
 Instead, pass the full include/library paths to your compiler e.g.:
-   -I/usr/local/opt/openssl/include -L/usr/local/opt/openssl/lib
+   -I~/.development/homebrew/opt/openssl/include -L~/.development/homebrew/opt/openssl/lib
 ```
 
 But don’t worry! There’s a fix. Homebrew installs OpenSSL but doesn’t link it to `/usr/local/include`, where the compiler looks into during `#include< …>` Thus, you must manually link it instead:
