@@ -36,21 +36,21 @@ Selecting the right protocol starts with defining what you’re trying to achiev
  
 __Traditional Streaming Protocols__
 
-- [RTMP (Real-Time Messaging Protocol)](##adobe-rtmp)
-- [RTSP (Real-Time Streaming Protocol)/RTP (Real-Time Transport Protocol)](##rtsp/rtp)
+- [RTMP (Real-Time Messaging Protocol)](#adobe-rtmp)
+- [RTSP (Real-Time Streaming Protocol)/RTP (Real-Time Transport Protocol)](#rtsp/rtp)
 
 __HTTP-Based Adaptive Protocols__
 
-- [Apple HLS (HTTP Live Streaming)](##apple-hls)
-- [Low-Latency HLS](##low-latency-hls)
-- [MPEG-DASH (Moving Picture Expert Group Dynamic Adaptive Streaming over HTTP)](##mpeg-dash)
-- [Low-Latency CMAF for DASH (Common Media Application Format for DASH)](##low-latency-cmaf-for-dash)
-- [Microsoft Smooth Streaming](##microsoft-smooth-streaming)
-- [Adobe HDS (HTTP Dynamic Streaming)](##Adobe-hds)
+- [Apple HLS (HTTP Live Streaming)](#apple-hls)
+- [Low-Latency HLS](#low-latency-hls)
+- [MPEG-DASH (Moving Picture Expert Group Dynamic Adaptive Streaming over HTTP)](#mpeg-dash)
+- [Low-Latency CMAF for DASH (Common Media Application Format for DASH)](#low-latency-cmaf-for-dash)
+- [Microsoft Smooth Streaming](#microsoft-smooth-streaming)
+- [Adobe HDS (HTTP Dynamic Streaming)](#adobe-hds)
  
 __New Technologies__
-- [SRT (Secure Reliable Transport)](##srt)
-- [WebRTC (Web Real-Time Communications)](##webrtc)
+- [SRT (Secure Reliable Transport)](#srt)
+- [WebRTC (Web Real-Time Communications)](#webrtc)
 
 
 # Traditional Streaming Protocols
