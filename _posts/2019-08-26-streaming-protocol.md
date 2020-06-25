@@ -72,7 +72,7 @@ While Flash’s end-of-life date is overdue, the same cannot be said for using R
 </p>
 
 - [__Audio Codecs__](/2019-03-13-best-audio-codec-for-live): AAC, AAC-LC, HE-AAC+ v1 & v2, MP3, Speex, Opus, Vorbis
-- [__Video Codecs__](https://www.wowza.com/blog/video-codecs-encoding): H.264, VP8, VP6, Sorenson Spark®, Screen Video v1 & v2
+- [__Video Codecs__](/2019-10-16-video-codecs-encoding): H.264, VP8, VP6, Sorenson Spark®, Screen Video v1 & v2
 - __Playback Compatibility__: Not widely supported (Flash Player, Adobe AIR, RTMP-compatible players)
 - __Benefits__: Low-latency and requires no buffering
 - __Drawbacks__: Not optimized for quality of experience or scalability
@@ -85,7 +85,7 @@ Like RTMP, RTSP/RTP describes a stateful protocol used for video contribution as
 
 Android and iOS devices don’t have RTSP compatible players out of the box, making this another protocol that’s rarely used for playback.
 - [__Audio Codecs__](/2019-03-13-best-audio-codec-for-live): AAC, AAC-LC, HE-AAC+ v1 & v2, MP3, Speex, Opus, Vorbis
-- [__Video Codecs__](https://www.wowza.com/blog/video-codecs-encoding): H.265 (preview), H.264, VP9, VP8
+- [__Video Codecs__](/2019-10-16-video-codecs-encoding): H.265 (preview), H.264, VP9, VP8
 - __Playback Compatibility__: Not widely supported (Quicktime Player and other RTSP/RTP-compliant players, VideoLAN VLC media player, 3Gpp-compatible mobile devices)
 - __Benefits__: Low-latency and requires no buffering
 - __Drawbacks__: Not optimized for quality of experience and scalability
@@ -102,7 +102,7 @@ Since Apple’s a major player in the world of internet-connected devices, it fo
 While HLS support was initially limited to iOS devices such as iPhones and iPads, native support has since been added to a wide range of platforms. All Google Chrome browsers, as well as Android, Linux, Microsoft, and MacOS devices can play streams delivered using HLS.
 
 - [__Audio Codecs__](/2019-03-13-best-audio-codec-for-live): AAC-LC, HE-AAC+ v1 & v2, MP3
-- [__Video Codecs__](https://www.wowza.com/blog/video-codecs-encoding): H.265, H.264
+- [__Video Codecs__](/2019-10-16-video-codecs-encoding): H.265, H.264
 - __Playback Compatibility__: Great (All Google Chrome browsers; Android, Linux, Microsoft, and MacOS devices; several set-top boxes, smart TVs, and other players)
 - __Benefits__: Adaptive bitrate and widely supported
 - __Drawbacks__: Quality of experience is prioritized over low latency
@@ -122,7 +122,7 @@ Mid 2019, [Apple announced an extension to their HLS protocol](https://www.wowza
 ## MPEG-DASH
 When it comes to MPEG-DASH, the acronym spells out the story. The Moving Pictures Expert Group (MPEG), an international authority on digital audio and video standards, developed Dynamic Adaptive Streaming over HTTP (DASH) as an industry-standard alternative to HLS. Basically, with DASH you get an open-source option. But because Apple tends to priorities its proprietary software, support for DASH plays second fiddle.
 - [__Audio Codecs__](/2019-03-13-best-audio-codec-for-live): Codec-agnostic
-- [__Video Codecs__](https://www.wowza.com/blog/video-codecs-encoding): Codec-agnostic
+- [__Video Codecs__](/2019-10-16-video-codecs-encoding): Codec-agnostic
 - __Playback Compatibility__: Good (All Android devices; most post-2012 Samsung, Philips, Panasonic, and Sony TVs; Chrome, Safari, and Firefox browsers)
 - __Benefits__: Vendor independent, international standard for adaptive bitrate
 - __Drawbacks__: Not supported by iOS or Apple TV
@@ -140,7 +140,7 @@ The Common Media Application Format, or [CMAF](https://www.wowza.com/blog/what-i
 ## Microsoft Smooth Streaming
 Microsoft developed Microsoft Smooth Streaming for use with Silverlight player applications. It enables adaptive delivery to all Microsoft devices.
 - [__Audio Codecs__](/2019-03-13-best-audio-codec-for-live): AAC, MP3, WMA
-- [__Video Codecs__](https://www.wowza.com/blog/video-codecs-encoding): H.264, VC-1
+- [__Video Codecs__](/2019-10-16-video-codecs-encoding): H.264, VC-1
 - __Playback Compatibility__: Good (Microsoft and iOS devices, Xbox, many smart TVs)
 - __Benefits__: Adaptive bitrate and supported by iOS
 - __Drawbacks__: Proprietary technology
@@ -149,7 +149,7 @@ Microsoft developed Microsoft Smooth Streaming for use with Silverlight player a
 ## Adobe HDS
 HDS was developed for use with Flash Player applications as the first adaptive bitrate protocol. Because the end-of-life date for Flash is looming, it’s fallen out of favor.
 - [__Audio Codecs__](/2019-03-13-best-audio-codec-for-live): AAC, MP3
-- [__Video Codecs__](https://www.wowza.com/blog/video-codecs-encoding): H.264, VP6
+- [__Video Codecs__](/2019-10-16-video-codecs-encoding): H.264, VP6
 - __Playback Compatibility__: Not widely supported (Flash Player, Adobe AIR)
 - __Benefits__: Adaptive bitrate technology for Flash
 - __Drawbacks__: Proprietary technology with lacking support
@@ -162,7 +162,7 @@ Last but not least, new technologies like WOWZ, WebRTC, and SRT were designed wi
 This open-source protocol is recognized as a proven alternative to proprietary transport technologies — helping to deliver reliable streams, regardless of network quality. From recovering lost packets to preserving timing behavior, [SRT](https://www.wowza.com/low-latency/SRT-secure-reliable-transport) was designed to solve the challenges of video contribution and distribution across the public internet. Although it’s quickly taking the industry by storm, SRT is most often used for first-mile contribution rather than last-mile delivery.
 
 - [__Audio Codecs__](/2019-03-13-best-audio-codec-for-live): Codec-agnostic
-- [__Video Codecs__](https://www.wowza.com/blog/video-codecs-encoding): Codec-agnostic
+- [__Video Codecs__](/2019-10-16-video-codecs-encoding): Codec-agnostic
 - __Playback Compatibility__: Limited (currently used for contribution)
 - __Benefits__: High-quality, low-latency video over suboptimal networks
 - __Drawbacks__: Playback support is still in the works
@@ -172,7 +172,7 @@ This open-source protocol is recognized as a proven alternative to proprietary t
 ## WebRTC
 [WebRTC](https://www.wowza.com/blog/what-is-webrtc) is a combination of standards, protocols, and JavaScript APIs that enables real-time communications (RTC, hence its name). Users connecting via Chrome, Firefox, or Safari can communicate directly through their browsers — enabling sub-500 millisecond latency. [According to Google](https://blog.chromium.org/2020/05/celebrating-10-years-of-webm-and-webrtc.html), “with Chrome, Edge, Firefox, and Safari supporting WebRTC, more than 85% of all installed browsers globally have become a client for real-time communications on the internet.”
 - [__Audio Codecs__](/2019-03-13-best-audio-codec-for-live): Opus, iSAC, iLBC
-- [__Video Codecs__](https://www.wowza.com/blog/video-codecs-encoding): H.264, VP8, VP9
+- [__Video Codecs__](/2019-10-16-video-codecs-encoding): H.264, VP8, VP9
 - __Playback Compatibility__: Chrome, Firefox, and Safari support WebRTC without any plugin
 - __Benefits__: Super fast and browser-based
 - __Drawbacks__: Designed for video conferencing and not scale
