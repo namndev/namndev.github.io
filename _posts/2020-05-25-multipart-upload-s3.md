@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uploading a Large File to Amazon S3
-image: https://stackify.com/wp-content/uploads/2017/09/AWS-CLI-Header-min-793x397.png
+image: https://i.ya-webdesign.com/images/amazon-s3-png-11.png
 tags: [AWS, DevOps]
 comments: true
 ---
