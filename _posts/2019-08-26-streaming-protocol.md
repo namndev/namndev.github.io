@@ -37,7 +37,7 @@ Selecting the right protocol starts with defining what you’re trying to achiev
 __Traditional Streaming Protocols__
 
 - [RTMP (Real-Time Messaging Protocol)](#adobe-rtmp)
-- [RTSP (Real-Time Streaming Protocol)/RTP (Real-Time Transport Protocol)](#rtsp/rtp)
+- [RTSP (Real-Time Streaming Protocol)/RTP (Real-Time Transport Protocol)](#rtsprtp)
 
 __HTTP-Based Adaptive Protocols__
 
