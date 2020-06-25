@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Best Audio Codecs for Live Video Streaming"
@@ -41,13 +40,13 @@ Literally ‘coder-decoder’ or ‘compressor-decompressor,’ codecs apply alg
 # Audio Codecs for Live Streaming
 Trying to pick the best audio codec for your live streams? Here’s our list of the top choices based on quality and compatibility:
 
-1. [AAC](#aac)
-2. [MP3](#mp3)
-3. [Opus](#opus)
-4. [Vorbis](#vorbis)
-5. [Speex](#speex)
-6. [G.711](#g711)
-7. [AC3](#ac3)
+1. [AAC](#1-aac-advanced-audio-coding)
+2. [MP3](#2-mp3-mpef-1-audio-layer-iii)
+3. [Opus](#3-opus)
+4. [Vorbis](#4-vorbis)
+5. [Speex](#5-speex)
+6. [G.711](#6-g711)
+7. [AC3](#7-ac-3-and-e-ac-3-dolby-digital-and-dolby-digital-plus)
 
 ## __1. AAC: Advanced Audio Coding__
 
