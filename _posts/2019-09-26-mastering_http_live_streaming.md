@@ -101,13 +101,46 @@ This image shows how the index file (master.m3u8) was constructed and these are 
     <p align="center">.m3u8 file structure</p>
 </p>
 
+[M3U (or M3U8)](https://en.wikipedia.org/wiki/M3U) is a plain text file format originally created to organize collections of MP3 files. The format is extended for HLS, where it’s used to define media streams. In HLS there are two kinds of m3u8 files:
+
+__Media playlist__: containing URLs of the files needed for streaming (i.e. chunks of the original video to be played).
+
+__Master playlist__: contains URLs to media playlists which, in turn, contain variants of the same video prepared for different bandwidths.
+A so-called M3U8 live stream URL is nothing more than URLs to M3U8 files, such as: https://s3-us-west-2.amazonaws.com/hls-playground/hls.m3u8.
+
+## Sample M3U8 File for HLS Stream
+
+An M3U8 file contains a list of urls or local file paths with some additional metadata. Metadata lines start with #.
+
+This example illustrates what an M3U8 file for a simple HLS stream looks like:
+
+```
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:5.215111,
+00000.ts
+#EXTINF:10.344822,
+00001.ts
+#EXTINF:10.344822,
+00002.ts
+#EXTINF:9.310344,
+00003.ts
+#EXTINF:10.344822,
+00004.ts
+...
+#EXT-X-ENDLIST
+```
+
 __EXTM3U:__ Indicates that the playlist is an extended M3U file. All HLS playlists must start with this tag.
 
 __EXT-X-PLAYLIST-TYPE:__ This tag may contain a value of either EVENT (Live) or VOD. If the tag is present and has a value of EVENT, the server must not change or delete any part of the playlist file. If the tag is present and has a value of VOD, the playlist file must not change.
 
-__EXT-X-TARGETDURATION:__ Specifies the maximum media-file duration.
+__EXT-X-TARGETDURATION:__ Specifies the maximum media-file duration. Typically, this value is around 10s.
 
-__EXT-X-VERSION:__ HLS protocol version.
+__EXT-X-VERSION:__ is the version of the M3U8 format (must be at least 3 if we want to use EXTINF entries).
 
 __EXT-X-MEDIA-SEQUENCE:__ Indicates the sequence number of the first URL that appears in a playlist file.
 
