@@ -213,9 +213,9 @@ GEM
     minitest (5.12.2)
     multi_json (1.14.1)
     multipart-post (2.1.1)
-    nokogiri (1.10.4)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.4-x64-mingw32)
+    nokogiri (1.10.8-x64-mingw32)
       mini_portile2 (~> 2.4.0)
     octokit (4.14.0)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -275,7 +275,7 @@ DEPENDENCIES
   jekyll-github-metadata
   jekyll-paginate
   jemoji
-  rack (>= 1.6.12)
+  nokogiri (>= 1.10.8)
 
 BUNDLED WITH
    1.17.2
