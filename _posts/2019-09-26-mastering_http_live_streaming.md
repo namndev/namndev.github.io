@@ -106,7 +106,7 @@ This image shows how the index file (master.m3u8) was constructed and these are 
 __Media playlist__: containing URLs of the files needed for streaming (i.e. chunks of the original video to be played).
 
 __Master playlist__: contains URLs to media playlists which, in turn, contain variants of the same video prepared for different bandwidths.
-A so-called M3U8 live stream URL is nothing more than URLs to M3U8 files, such as: https://s3-us-west-2.amazonaws.com/hls-playground/hls.m3u8.
+A so-called M3U8 live stream URL is nothing more than URLs to M3U8 files, such as: [https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8](https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8)
 
 ## Sample M3U8 File for HLS Stream
 
