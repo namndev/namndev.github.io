@@ -164,7 +164,7 @@ timezone: "Asia/ Ho_Chi_Minh"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 8
+paginate: 12
 remote_theme: "dracula/gh-pages"
 kramdown:
   input: GFM
