@@ -16,7 +16,6 @@ If your app uses HLS over cellular networks, you must provide at least one strea
 In earlier days, streaming a video over a network was not an easy job to do. If you have a single HD file on your server and you have to play that video in a mobile that only has the 2G network bandwidth, just think how much time you have to wait to see the entire video. Also, we need a streaming server to serve the video to users.
 
 HLS help us easily deploy media content in streams using common place web servers rather than specialized streaming servers. Lets discuss the key features of HLS
-
 - Adaptive streaming
 - Content protection
 - Closed captions and subtitles
@@ -46,7 +45,6 @@ HLS supports key exchange with the method of your choice. Static keys, encoder g
 
 # What Does HLS Support?
 HLS supports the following:
-
 - Live broadcasts
 - Prerecorded content: video on demand (VOD)
 - Alternate streams: multiple alternate streams at different bit rates
@@ -72,17 +70,14 @@ Because UDP is faster, many streaming protocols use UDP instead of TCP. HLS, how
 
 # Server Component
 The server component consists of three important things, using these we will create the master playlist file (.m3u8)
-
 - Encoder : Converting data from one format to another using defined compression mechanism
 - Transcoder: Creating multiple quality variants of the same content.
 - Stream Segmenter: Breaking the content into a series of short media files. The video is divided up into segments a few seconds in length. The length of the segments can vary, although the default length is 10 seconds.
     - In addition to dividing the video into segments, HLS creates an index file of the video segments to record the order they belong in.
     - HLS will also create several duplicate sets of segments at different quality levels: 480p, 720p, 1080p, and so on.
 
-
 # Distribution Component
 The distribution system is generally a combination web server and a web-caching system (CDN) that delivers the media files and index files to the client over HTTP.
-
 - Origin web server : System that delivers the media files and index files of the client over HTTP
 - CDN (Content delivery network)
 
