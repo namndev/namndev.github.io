@@ -6,17 +6,17 @@ comments: true
 ---
 
 <p align="center">
-    <img src="/img/2020/pipeline.jpg" />
+    <img src="/img/2020/pipeline.png" />
     <i>Figure 1</i>
 </p>
 
-- Ingest: The video being uploaded to Uiza system
-- Metadata Inspect: The process of parsing all metadata information of the video like resolution, duration, framerate… for validation and making decision for later process: number of chunks to split , worker specs to handle the transcoding
-- Video Splitting : the video being split into multiple chunks without the audio.
-- Multiple Chunks Encoding: each chunk will be transcoded into multiple profiles by one worker. The audio is transcoded directly from the video source .
-- Video Validation : validate all transcoded chunks after transcoding process are completed . If there’s missing or corrupted chunks, the transcoding process will be restart for said chunk.
-- Video Assembler: all transcoded chunks will be stitched together, profile by profile and then package into HLS / DASH asset .
-- Upload to Origin: HLS/DASH asset will be uploaded to Uia Origin Storage.
+- __Ingest__: The video being uploaded to Uiza system
+- __Metadata Inspect__: The process of parsing all metadata information of the video like resolution, duration, framerate… for validation and making decision for later process: number of chunks to split , worker specs to handle the transcoding
+- __Video Splitting__: the video being split into multiple chunks without the audio.
+- __Multiple Chunks Encoding__: each chunk will be transcoded into multiple profiles by one worker. The audio is transcoded directly from the video source .
+- __Video Validation__: validate all transcoded chunks after transcoding process are completed . If there’s missing or corrupted chunks, the transcoding process will be restart for said chunk.
+- __Video Assembler__: all transcoded chunks will be stitched together, profile by profile and then package into `HLS/DASH` asset .
+- __Upload to Origin__: `HLS/DASH` asset will be uploaded to Uia Origin Storage.
 
 <p align="center">
     <img src="/img/2020/vodv5.jpg" />
