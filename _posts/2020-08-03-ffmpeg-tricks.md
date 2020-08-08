@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FFmpeg Tricks"
-tags: [Video, Codec]
+tags: [FFMPEG, Video, Codec]
 comments: true
 ---
 
