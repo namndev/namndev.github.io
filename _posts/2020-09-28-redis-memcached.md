@@ -24,15 +24,15 @@ When used for the same thing, here is how they compare using the original questi
 
 - __Read/write speed__: Both are extremely fast. Benchmarks vary by workload, versions, and many other factors but generally show redis to be as fast or almost as fast as memcached. I recommend redis, but not because memcached is slow. It's not.
 - __Memory usage__: Redis is better.
-	- memcached: You specify the cache size and as you insert items the daemon quickly grows to a little more than this size. There is never really a way to reclaim any of that space, short of restarting memcached. All your keys could be expired, you could flush the database, and it would still use the full chunk of RAM you configured it with.
-	- redis: Setting a max size is up to you. Redis will never use more than it has to and will give you back memory it is no longer using.
-	- I stored 100,000 ~2KB strings (~200MB) of random sentences into both. Memcached RAM usage grew to ~225MB. Redis RAM usage grew to ~228MB. After flushing both, redis dropped to ~29MB and memcached stayed at ~225MB. They are similarly efficient in how they store data, but only one is capable of reclaiming it.
+	- `Memcached`: You specify the cache size and as you insert items the daemon quickly grows to a little more than this size. There is never really a way to reclaim any of that space, short of restarting memcached. All your keys could be expired, you could flush the database, and it would still use the full chunk of RAM you configured it with.
+	- `Redis`: Setting a max size is up to you. Redis will never use more than it has to and will give you back memory it is no longer using.
+	- I stored 100,000 ~2KB strings (~200MB) of random sentences into both. Memcached RAM usage grew to __~225MB__. Redis RAM usage grew to __~228MB__. After flushing both, redis dropped to __~29MB__ and memcached stayed at __~225MB__. They are similarly efficient in how they store data, but only one is capable of reclaiming it.
 - __Disk I/O dumping__: A clear win for redis since it does this by default and has very configurable persistence. Memcached has no mechanisms for dumping to disk without 3rd party tools.
 - __Scaling__: Both give you tons of headroom before you need more than a single instance as a cache. Redis includes tools to help you go beyond that while memcached does not.
 
 ### memcached
 
-Memcached is a simple volatile cache server. It allows you to store key/value pairs where the value is limited to being a string up to 1MB.
+Memcached is a simple volatile cache server. It allows you to store `key/value` pairs where the value is limited to being a string up to 1MB.
 
 It's good at this, but that's all it does. You can access those values by their key at extremely high speed, often saturating available network or even memory bandwidth.
 
@@ -67,7 +67,7 @@ There are now 2x as many stackoverflow results for redis as memcached. 2x as man
 
 By default redis persists your data to disk using a mechanism called snapshotting. If you have enough RAM available it's able to write all of your data to disk with almost no performance degradation. It's almost free!
 
-In snapshot mode there is a chance that a sudden crash could result in a small amount of lost data. If you absolutely need to make sure no data is ever lost, don't worry, redis has your back there too with AOF (Append Only File) mode. In this persistence mode data can be synced to disk as it is written. This can reduce maximum write throughput to however fast your disk can write, but should still be quite fast.
+In snapshot mode there is a chance that a sudden crash could result in a small amount of lost data. If you absolutely need to make sure no data is ever lost, don't worry, redis has your back there too with `AOF` (Append Only File) mode. In this persistence mode data can be synced to disk as it is written. This can reduce maximum write throughput to however fast your disk can write, but should still be quite fast.
 
 There are many configuration options to fine tune persistence if you need, but the defaults are very sensible. These options make it easy to setup redis as a safe, redundant place to store data. It is a real database.
 
@@ -76,7 +76,7 @@ There are many configuration options to fine tune persistence if you need, but t
 Memcached is limited to strings, but Redis is a data structure server that can serve up many different data types. It also provides the commands you need to make the most of those data types.
 
 #### Strings ([commands](https://redis.io/commands#string))
-Simple text or binary values that can be up to 512MB in size. This is the only data type redis and memcached share, though memcached strings are limited to 1MB.
+Simple text or binary values that can be up to __512MB__ in size. This is the only data type redis and memcached share, though memcached strings are limited to 1MB.
 
 Redis gives you more tools for leveraging this datatype by offering commands for bitwise operations, bit-level manipulation, floating point increment/decrement support, range queries, and multi-key operations. Memcached doesn't support any of that.
 
