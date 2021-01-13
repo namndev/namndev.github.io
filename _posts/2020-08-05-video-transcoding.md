@@ -634,3 +634,7 @@ __Result__
     }
 }
 ```
+
+[![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/namndev)
+
+> Thanks!
