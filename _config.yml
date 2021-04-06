@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Nam N Dev
+title: NamND ev
 
 # Short description of your site
 description: This is where I will tell my friends what I do
@@ -11,7 +11,7 @@ description: This is where I will tell my friends what I do
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://namndev.github.io"
+url: "https://www.namndev.com"
 
 # baseurl should be an empty string
 baseurl: ""
@@ -91,13 +91,13 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "namndev.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "namndev.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
